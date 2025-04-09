@@ -17,6 +17,6 @@ def get_resposta(pergunta: str):
                               """).go()
     return {"message": f"Resposta: {resposta}"}
 
-    @app.get("/versao")
-    def get_versao():
-        return {"Versão": "001"}
+@app.get("/versao")
+def get_versao():
+    return {"Versão": "001"}
