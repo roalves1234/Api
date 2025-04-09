@@ -1,0 +1,4379 @@
+
+Nº Documento de Referência:
+Título de Referência:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D
+
+
+
+
+
+
+C
+
+
+
+
+
+
+B
+
+
+
+
+
+
+A
+
+
+
+
+
+
+0
+02/05/24
+Emissão Inicial
+-
+--
+-
+Marcelo João
+
+Revisão
+Data
+Descrição
+Fornecedor 
+Nome
+Fornecedor
+Aprovador
+CREA
+Aprovador
+Gerdau
+Aprovador
+Fornecedor:
+
+
+
+Fornecedor:
+Número Fornecedor:
+
+-
+
+Emitido/ Desenhado:
+Data:
+
+
+
+
+Aprovador:
+Data:
+
+
+
+
+Unidade:
+
+GERDAU PINDAMONHANGABA
+
+Verificador:
+
+
+
+Aprovador:
+
+Marcelo João Pinheiro - NP: 37076454
+Títulos do documento:
+51 - ACIARIA I
+513 - FORNOS ELÉTRICOS
+012 - FEA EBT
+ENGENHARIA BÁSICA ELETROMECÂNICA DE MONTAGEM (INTERCONNECTING) REVAMP DA ACIARIA DE PINDA.
+
+
+Número:
+                       Revisão:
+
+Tamanho:
+
+
+UP-513-ES-A-0021
+0
+A4
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kghkjghkjgh
+
+
+
+CDOC CENTRAL A4-2019
+1.	INTRODUÇÃO	6
+2.	OBJETO DA PROPOSTA	6
+2.1.	REGIME DE CONTRATAÇÃO	7
+3.	PREMISSAS	7
+4.	DEFINIÇÕES	7
+5.	CÓDIGOS E NORMAS GERAIS	8
+6.	CONDIÇÕES DO PROJETO	10
+6.1.	CARACTERIZAÇÃO DO LOCAL	10
+6.2.	RECONHECIMENTO DO LOCAL	10
+6.3.	CONDIÇÕES CLIMÁTICAS	10
+6.4.	RECOMENDAÇÕES GERAIS	10
+6.5.	CONDIÇÕES LOGÍSTICAS	11
+7.	DESCRIÇÃO GERAL DO ESCOPO	11
+7.1.	FORNO ELÉTRICO EBT	16
+7.2.	CARRO CESTÃO	18
+7.3.	FORNO ELÉTRICO A ARCO - EBT 110 T	18
+7.3.1.	PLATAFORMA DE BASCULAMENTO	18
+7.3.2.	CARCAÇA BI-PARTIDA	19
+7.3.2.1.	CARCAÇA INFERIOR	19
+7.3.2.2.	CARCAÇA SUPERIOR E PAINÉIS REFRIGERADOS	19
+7.3.3.	ABÓBADA REFRIGERADA	19
+7.3.4.	CONJUNTO DE PÓRTICO E GIRO	20
+7.3.5.	BRAÇO DO ELETRODO	20
+7.4.	AUXILIARES DO FORNO ELÉTRICO A ARCO FEA EBT	20
+7.5.	GERAL	21
+7.6.	CERCA DE SEGURANÇA NR12 - RED ZONE	21
+7.6.1.	iNSTALAÇÕES ELÉTRICAS	21
+7.6.1.1.	CFTV	21
+7.6.1.2.	SISTEMA DE TRAVAMENTO E SINALIZAÇÃO DOS PORTAIS	22
+7.6.1.3.	CANCELAS	22
+7.6.1.4.	COnsiderações	22
+7.7.	MHS - Sistema de Adição de Cal e Ligas	22
+7.7.1	Desenhos Orientativos	23
+7.7.2	Estação de Recebimento e Armazenamento	23
+7.7.3	Transferências	23
+7.7.4	Sistema de Descarga na Panela	24
+7.8	Estação de Recebimento de Cal e Ligas	24
+7.9	Alimentador de Arraste (AA-1)	24
+7.10	Galpão de Basculamento, composto de:	24
+7.11	Sistema de Despoeiramento	24
+7.11.1	Filtro de Mangas	24
+7.11.2	Rede de Dutos	25
+7.11.3	Exaustor	25
+7.11.4	Chaminé	26
+7.12	Transportador Z-belt (ZB-1)	26
+7.13	Transportador de Correia Móvel e Reversível (TC-1)	26
+7.14	Silos	26
+7.14.1	Silo para Cal Calcítica (SL-1)	27
+7.14.2	Silo para Cal Calcítica (SL-2)	27
+7.14.3	Silo para Cal Calcítica (SL-3)	27
+7.14.4	Silo para Cal Dolomítica (SL-4)	27
+7.14.5	Silo para Cal Calcítica (SL-5)	28
+7.14.6	Silo para Cal Dolomítica (SL-6)	28
+7.14.7	Silo para Liga de FeSiMn (SL-7)	28
+7.14.8	Silo para Liga e FeCr Alto Carbono (SL-8)	28
+7.14.9	Silo para Liga de FeSi (SL-9)	28
+7.14.10	Silo para Aluminato de Cálcio (SL-10)	28
+7.14.11	Silo para Carvão (SL-11)	28
+7.14.12	Silo para Fluorita (SL-12)	28
+7.14.13	Silo para Liga de FeNi (SL-13)	28
+7.14.14	Silo para Liga de FeCr Baixo Carbono (SL-14)	28
+7.14.15	Silo para Grafite (SL-15)	28
+7.14.16	Silo Extra (SL-16)	28
+7.15	Moegas de Pesagem	28
+7.15.1	Moega de Pesagem (MP-1)	28
+7.15.2	Moega de Pesagem (MP-2)	29
+7.15.3	Moega de Pesagem (MP-3)	29
+7.15.4	Moega de Pesagem (MP-4)	30
+7.15.5	Moega de Pesagem (MP-5)	30
+7.15.6	Moega de Pesagem (MP-6)	31
+7.15.7	Moega de Pesagem (MP-7)	31
+7.15.8	Moega de Pesagem (MP-8)	32
+7.16	Transportador Z-belt (ZB-2)	32
+7.17	Transportador de Correia (TC-2)	33
+7.18	Transportador de Correia (TC-3)	33
+7.19	Transportador de Correia (TC-4)	33
+7.20	Casas de Transferência	33
+7.20.1	Casa de Transferência (CT-1)	33
+7.20.2	Casa de Transferência (CT-2)	33
+7.21	Sistema de Descarga na Panela	33
+7.21.1	Prédio para os Silos de Estocagem	34
+7.21.2	Silo de Estocagem (SE-1)	34
+7.21.3	Silo de Estocagem (SE-2)	34
+7.21.4	Silo de Estocagem (SE-3)	34
+7.21.5	Silo de Estocagem (SE-4)	34
+7.22	Chute Giratório (CG-1)	34
+7.23	Sistema Elétrico	35
+7.24	Controlador Lógico Programável (PLC)	35
+7.25	Centro de Controle de Motores (CCM)	35
+7.26	Sistema de Supervisão	35
+7.27	Caixas Elétricas de Comando Local	35
+8	Silos EXTERNOS de armazenamento de cal e coQUE para injeção no forno	35
+9	FTP - Despoeiramento	35
+9.1	HQT ( Quenching Tower)	36
+9.2	CASA DE MANGAS, CHAMINÉ E VENTILADORES - EBT 110 T	36
+9.2.1	CASA DE MANGAS	37
+9.3	Dutos	37
+9.3.1	DUTOS REFRIGERADOS	37
+9.3.2	dutos secos	37
+9.4	AUXILIARES DO SISTEMA DE DESPOEIRAMENTO DO FORNO ELÉTRICO A ARCO FEA EBT	38
+ELECTRIC ARC FURNACE (EAF) EBT:	38
+FUME TREATMENT PLANT (FTP)	41
+MATERIAL HANDLING SYSTEM (MHS)	43
+12	CONSIDERAÇÕES GERAIS	54
+12.1	Condições do projeto	54
+12.2	Garantia	55
+12.3	Regime de trabalho	55
+12.4	Regime de trabalho em hora extra	55
+12.5	Topografia	55
+12.6	Descarte de resíduos	56
+12.7	Abastecimento de combustível	56
+12.8	Colaboradores	56
+12.9	Segurança do trabalho	56
+13	RESPONSABILIDADES DA GERDAU	59
+13.1	Gestão da Infraestrutura Básica	60
+13.2	Gestão executiva	60
+13.3	Gestão de Segurança	60
+13.4	Gestão administrativa	60
+14	RESPONSABILIDADES DA CONTRATADA	60
+14.1	Planejamento e controle	61
+14.2	Sistema Bancodoc	62
+14.3	Gestão de Qualidade	62
+14.4	Gestão da infraestrutura de Obra e Obstruções	63
+14.5	Gestão de Mão de Obra, Materiais e Equipamentos	64
+14.6	Gestão dos Custos	66
+14.7	Gestão administrativa	67
+14.8	Gestão de Segurança	68
+15	APRESENTAÇÃO DAS PROPOSTAS	68
+15.1	Proposta comercial	68
+15.2	Proposta técnica	69
+15.3	ANÁLISE DAS PROPOSTAS E CONTRATAÇÃO	69
+
+
+1. 
+INTRODUÇÃO
+
+Esta especificação técnica de serviços é padrão e forma o conjunto de regras a serem integralmente obedecidas para participação na concorrência para contratação de serviços e farão parte do CONTRATO a ser firmado.
+A GERDAU - GSB Unidade Pindamonhangaba, doravante denominada GERDAU, abre concorrência para contratar uma prestadora de serviço para executar os trabalhos de ENGENHARIA BÁSICA DE MONTAGEM (INTERCONNECTING), DO NOVO FORNO ELÉTRICO A ARCO EBT 110 t, MHS e FTP - FEL 3 - Front-End Loading: Correspond to Basic Engineering. Project planning, da área industrial da GERDAU - GSB - UNIDADE PINDAMONHANGABA, conforme descrito abaixo.
+As empresas qualificadas previamente para participar do presente ES serão doravante, neste documento, designadas como PROPONENTES, e consideradas cada uma individualmente.
+Os projetos e documentos descritos neste ES serão disponibilizados em meio eletrônico para a avaliação e cálculos que se façam necessários para preparação das Propostas Técnica e Comercial da obra pelas PROPONENTES.
+A quantificação de todo o material e serviços necessários para a execução do serviço deverá ser levantada e apresentada pela PROPONENTE em sua proposta, com base na análise dos desenhos, especificação e documentos entregues. Além da análise dos documentos citados anteriormente, deverão ser considerados em sua proposta o reconhecimento do local da obra, as condições climáticas, atmosféricas, características sociais, condições de acesso, métodos de montagens a serem adotadas e demais caraterísticas intrínsecas à natureza da obra e expertise da empresa PROPONENTE. Tais condições serão aferidas em visita técnica obrigatória e ao longo da avaliação e elaboração das propostas técnica e comercial.
+
+2. OBJETO DA PROPOSTA
+
+A PROPONENTE deverá apresentar à GERDAU uma Proposta de fornecimento dos serviços, sendo de sua responsabilidade o estudo de todos os recursos necessários para a fabricação, bem como a sua precificação global. A proposta deverá considerar todos os custos necessários para a perfeita execução dos serviços do escopo desta ES.
+Este fornecimento refere-se a todos os serviços necessários para ENGENHARIA BÁSICA DE MONTAGEM (INTERCONNECTING), DO NOVO FORNO ELÉTRICO A ARCO EBT 110 t, MHS e FTP - FEL 3 - Front-End Loading: Correspond to Basic Engineering. Project planning, contemplando as disciplinas de mecânica, elétrica, automação, calibração de instrumentos, fluídos, utilidades, comissionamento a frio e operação assistida de forma a atender às exigências do projeto, assegurando desta forma a performance requerida para o novo equipamento.
+Objetiva-se, com isto fornecer dados para as empresas PROPONENTES, para elaboração das propostas técnicas e comerciais, para as interligações, instalações e montagem eletromecânica de todos os equipamentos e periféricos, que asseguram a completa operação do FEA EBT, bem como assegurar as regras de segurança, meio ambiente, qualidade, prazo de execução, custo e performance requerida em projeto para este equipamento.
+
+
+
+
+
+2.1. REGIME DE CONTRATAÇÃO
+
+A contratação será em regime de Preço Global, sendo os preços apresentados fixos e irreajustáveis. Somente serão aceitas variações originadas e devidamente aprovadas em função de alteração e/ou modificação dos projetos de referência apresentados pela GERDAU nesta ES, a serem revisados pela PROPONENTE.
+A proposta deverá considerar, sem se limitar a estes: todos os custos de mão de obra, encargos trabalhistas e fiscais, equipamentos, veículos, materiais, ferramentas, transporte externo e/ou interno, horizontal ou vertical, carga e descarga de material ou equipamentos, e todos demais elementos necessários à perfeita execução dos serviços detalhados nesta ES e seus anexos.
+3. PREMISSAS
+
+* Ao apresentar a sua proposta, a PROPONENTE assume conhecer e aceitar na íntegra as condições explicitadas nesta ES e seus anexos, que serão rubricados e farão parte do futuro CONTRATO, sendo este o único documento que tem ascendência sobre a MD. Portanto, eventuais discordâncias expressas na Proposta Técnica ou Comercial deverão ser discutidas e sugeridas formalmente pela PROPONENTE para devida análise e aceite para alteração pela Equipe da GERDAU nesta ES e redistribuição a todas as demais PROPONENTES, antes da rubrica.
+* A PROPONENTE declara que os serviços a serem realizados estão enquadrados dentre os que compõem o seu objeto social e que ela é especializada no segmento de sua atividade, competente, idônea moralmente e financeiramente, qualificada e capaz, tudo isso devidamente comprovado por atestado de capacitação técnica, bem como que possui todos os registros e licenças necessários para sua realização junto à GERDAU, inexistindo qualquer restrição ou impedimento a respeito.
+* Ao apresentar a sua proposta, a PROPONENTE também assume e aceita as condições constantes da MINUTA DO CONTRATO, reconhecendo ainda, que a mesma será a base para a assinatura do CONTRATO, caso a PROPONENTE seja vencedora da presente concorrência.
+* A presente ES constitui-se em mera proposta da GERDAU, não representando qualquer obrigação da mesma em efetivamente contratar os serviços aqui descritos, e muito menos vinculação comercial ou jurídica entre a GERDAU e quaisquer das PROPONENTES.
+Ao receber os projetos de referência, a PROPONENTE deverá fazer previamente uma análise crítica dos projetos e outros documentos fornecidos pela GERDAU, sendo responsável por tal análise e desenvolvimento e pelas suas consequências, inclusive serviços executados em desconformidade, devendo a PROPONENTE arcar às suas expensas com a correção de tais serviços.
+4. DEFINIÇÕES
+
+Adotam-se os seguintes termos e nomenclaturas neste documento, nos desenhos e outros documentos anexos.
+SIGLA/ TERMO
+DESCRIÇÃO
+GERDAU - GSB 
+Proprietária, Contratante. Unidade Industrial da GERDAU Aços Especiais - Pindamonhangaba - SP
+PROPONENTE
+Empresa convidada pela GERDAU - GSB a participar do processo de cotação para execução dos serviços.
+APR
+Análise Preliminar de Risco
+ART
+Anotação de Responsabilidade Técnica
+ES
+Especificação Tecnica de Serviço 
+PCMSO
+Programa de Controle Médico de Saúde Ocupacional
+PIT
+Programa Integração de Terceiros
+PPRA
+Programa de Prevenção de Riscos Ambientais
+PT
+Permissão de Trabalho
+
+5. CÓDIGOS E NORMAS GERAIS
+
+Deverão ser utilizadas as normas da ABNT (Associação Brasileira de Normas Técnicas) e as demais normas citadas nos projetos, considerando suas últimas revisões. Nos casos não cobertos por tais normas, ou quando não for possível a utilização das mesmas, a PROPONENTE poderá considerar, mediante prévia aprovação por escrito da GERDAU, outras normas aplicáveis ao projeto ou serviço em questão, publicadas pelos Órgãos ou Instituições abaixo listadas. Além dos códigos e normas citados, o projeto deverá estar em consonância com todas as leis e regulamentações das autoridades locais. Em caso de conflito, o mais estrito prevalecerá.
+SIGLA
+DESCRIÇÃO
+ABNT
+Associação Brasileira de Normas Técnicas
+ACI
+American Concrete Institute
+ASTM
+American Society for Testing and Materials 
+BSI
+British Standards Institution
+CONAMA
+Conselho Nacional do Meio Ambiente
+CREA
+Instruções e Resoluções do Órgão de Classe
+DNIT
+Departamento Nacional de Infra-Estrutura de Transportes
+EPA
+Environmental Protection Agency
+IBAMA
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+MSHA
+Mine Safety and Health Administration
+MTE
+Ministério do Trabalho e Emprego
+NFPA
+National Fire Protection Association
+NOSA
+National Occupational Safety Association
+OSHA
+Occupational Safety and Health Administration
+SEAMA
+Secretaria de Estado para Assuntos do Meio Ambiente
+AWS
+American Welding Society
+ASTM
+American Society for Testing and Materials
+NR-01
+Disposições Gerais
+NR-04
+SESMT
+NR-05
+CIPA
+NR-07
+Controle Médico de Saúde Ocupacional
+NR-08
+Edificações
+NR-09
+Programa de Prevenção de Riscos Ambientais
+NR-10
+Instalações e Serviços em Eletricidade
+NR-11
+Transporte, Movimentação, Armazenagem e Manuseio de Materiais
+NR-12
+Máquinas e Equipamentos
+NR-13
+Caldeiras e Vasos de Pressão
+NR-15
+Ruídos e Temperatura
+NR-16
+Atividades e Operações Perigosas
+NR-17
+Ergonomia
+NR-18
+Condições e Meio Ambiente de Trabalho na Indústria da Construção
+NR-20
+Líquidos Combustíveis e Inflamáveis
+NR-23
+Proteção Contra Incêndios
+NR-24
+Condições Sanitárias e de Conforto nos Locais de Trabalho
+NR-26
+Sinalização de Segurança
+NR-33
+Espaço Confinado
+NR-35
+Trabalho em altura 
+GAB-RME-160-024-A
+Requisitos Mínimos de Engenharia - Solda
+GAB-RME-160-025-F
+Requisitos Mínimos de Engenharia - Tubulações
+GAB-RME-160-026-B
+Requisitos Mínimos de Engenharia - Vasos de Pressão
+GAB-RME-160-029-E
+Requisitos Mínimos de Engenharia - Hidráulica
+GAB-RME-160-030-A
+Requisitos Mínimos de Engenharia - Pneumática
+GAB-RME-160-042-E
+Requisitos Mínimos de Engenharia - Utilidades Gerais
+UP-290-EE-0011
+Procedimento de Pintura
+UP-290-EE-027
+PADRONIZAÇÃO DE CORES DAS TUBULAÇÕES
+UP-290-EE-0029
+PADRONIZAÇÃO DE CORES
+UP-290-ES-001
+PADRONIZAÇÃO DE CORES
+UP-290-EE-01
+PINTURA DE SUPERFÍCIES METÁLICAS FERROSAS
+UP-513-ES-A-0020
+BIM MODELING REQUIREMENTS AND GUIDELINES
+GAB-RME-160-088-0
+Relação de Entregáveis Engenharia - FEL
+PIN-PR-245-005.
+Plano de Rigging
+
+6. CONDIÇÕES DO PROJETO
+
+Para a prestação do serviço, a PROPONENTE deverá considerar cada variável (pluviometria, temperatura, localização geográfica etc.) que afeta o seu desempenho, a capacidade de atender ao prazo, à qualidade e aos custos indiretos da obra.
+Todas as informações mencionadas são passíveis de variações por se tratar de médias históricas, servindo apenas para conhecimento do local.
+6.1. CARACTERIZAÇÃO DO LOCAL
+
+O empreendimento será implantado na GERDAU - GSB, Unidade de Pindamonhangaba, no estado de São Paulo. 
+A Unidade GERDAU - GSB está localizada no distrito de Moreira César da cidade de Pindamonhangaba, município da Região Metropolitana do Vale do Paraíba e Litoral Norte no estado de São Paulo, Brasil. 
+O principal acesso à GERDAU - GSB se dá pela Rodovia Luiz Dumont Villares km 02, cujo acesso se faz pela rodovia Dutra km 86 (Moreira César).
+
+6.2. RECONHECIMENTO DO LOCAL
+
+A PROPONENTE deverá realizar visita técnica para reconhecimento do local da obra e certificar-se IN LOCO de todas as condições de trabalho, assim como fatores diretos e indiretos que possam afetar a execução dos serviços. Certificando, assim, de todas as interferências e obstáculos para a execução da obra.
+6.3. CONDIÇÕES CLIMÁTICAS
+
+Condições Locais e Climáticas
+a) Endereço da instalação: Rodovia Luís Dumont Villares km2, Pindamonhangaba-SP;
+b) 540m acima do nível do mar;
+c) Temperatura ambiente de 0°C a 38oC;
+d) Período chuvoso de outubro a março;
+e) Período inverno de abril a setembro;
+f) Índice pluviométrico anual 1,200mm Ca;
+g) Umidade relativa do ar média de 77,8% (97% máximo e 58% mínimo);
+h) Velocidade máxima do vento 120 km/h;
+6.4. RECOMENDAÇÕES GERAIS
+
+O período crítico de chuvas se dá nos meses de novembro a março, com precipitações intensas. O cronograma dos serviços deverá ser concebido de forma a executar todas as atividades dentro dos prazos requeridos, observando-se as limitações que o clima local pode ocasionar.
+
+
+
+6.5. CONDIÇÕES LOGÍSTICAS
+
+TODO o efetivo da PROPONENTE deverá utilizar o BANCODOC da GERDAU, registrando sua entrada e saída através do controle por catracas, diariamente.
+Os materiais que deverão fazer aferição de peso na balança da GERDAU, quando solicitado pela equipe de fiscalização, deverão passar pela portaria administrativa.
+7. DESCRIÇÃO GERAL DO ESCOPO
+
+Essa especificação técnica de compra tem como objetivo estabelecer as características básicas, requisitos e condições mínimas necessárias para o fornecimento de todos os equipamentos, materiais e serviços para ENGENHARIA BÁSICA DE MONTAGEM (INTERCONNECTING), DO NOVO FORNO ELÉTRICO A ARCO EBT 110 t, MHS e FTP - FEL 3 - Front-End Loading: Correspond to Basic Engineering. Project planning, na unidade de Pindamonhangaba.
+O escopo compreende todos os serviços, recursos e materiais listados nessa especificação técnica e quaisquer outros não indicados e identificados pela PROPONENTE que possam ser necessários à perfeita execução dos serviços listados. Qualquer item que não constar nesta especificação, mas que seja necessário ao bom andamento dos serviços, será considerado como parte do escopo da PROPONENTE, mesmo não constando nos itens que seguem abaixo.
+Visando a simplificação, o escopo será subdividido por região do forno, sendo de responsabilidade da PROPONENTE atender completamente os serviços aqui descritos. Todos os desenhos de referência necessários ao estudo e elaboração da proposta serão enviados como completo a esta ES, por meio de link e estão referenciados no item 7.8 os projetos e os pesos conceituais (Documentação Tecnica). Caso a PROPONENTE necessite de informação não contida na documentação, deverá requisitar à GERDAU.
+A montagem da nova estrutura do forno requer a desmontagem do forno atual que ocupa a posição do novo forno, sendo esta etapa contemplada pelo presente escopo, incluindo remoção de estruturas, interferências, destinação de resíduos e quaisquer atividades necessárias para liberação da área de montagem.
+
+PROJETO DE ENGENHARIA
+Fornecer o cronograma do desenvolvimento da engenharia básica FEL3.
+A engenharia básica deverá ser fornecida em formato eletrônico conforme procedimento: BIM MODELING REQUIREMENTS AND GUIDELINES - ASSEMBLERS AND CONTRACTORS UP-513-ES-A-0020.
+
+
+
+
+
+
+
+
+Relação de Entregáveis Engenharia - FEL3 (engenharia básica) de acordo com o padrão GAB-RME-160-088-0. As linhas assinaladas com "X" deverão ser fornecidas na Engenharia básica PARA TODOS OS EQUIPAMENTOS DO Forno EBT, MHS, WTP e FTP.
+
+1
+GERAL
+FEL3
+1.1
+Relatório de levantamento de Campo
+X
+1.2
+Lista de documentos (LD)
+X
+1.3
+Relatórios e Estudos de interferências multidisciplinares (quando aplicável 3D/BIM)
+X
+1.4
+Projeto de relocação de interferências
+X
+1.5
+Projeto de descomissionamento (quando aplicável)
+X
+1.6
+Especificação técnica para contratação da engenharia da próxima fase
+X
+1.7
+Referência de Orçamento/Custos (Capex e Opex)
+X
+1.8
+Estudo de Alternativas 
+
+1.9
+Manual de comissionamento, teste e start-up
+
+1.10
+Manual de operação
+
+1.11
+Estudos de Classificação de Área
+X
+1.12
+As built após instalação do projeto
+
+1.13
+Layout geral com definição das instalações e principais equipamentos
+X
+1.14
+Estudo de Logística para o Canteiro de Obras/ Área de pré Montagem e Rotas de Acesso
+X
+2
+PROCESSO
+
+2.1
+Dados básicos da definição das demandas do processo
+
+2.2
+Diagrama de Blocos
+
+2.3
+Fluxogramas de processo (PFD)
+X
+2.4
+Fluxograma de Engenharia (P&ID)
+X
+2.5
+Balanço de massas, águas e utilidades
+X
+2.6
+Memorial Descritivo do processo
+X
+2.7
+Estimativa de OPEX
+X
+2.8
+Dimensionamento (memória de cálculo) dos equipamentos de processo
+X
+2.9
+Folhas de dados
+X
+2.10
+Especificação técnica dos equipamentos de processo
+X
+2.11
+As built após instalação do projeto
+
+3
+TUBULAÇÃO
+
+3.1
+Dados básicos
+X
+3.2
+Critérios de projeto (Pipe Spec)
+X
+3.3
+Memórias de cálculo do dimensionamento dos sistemas
+X
+3.4
+Análise de flexibilidade/transiente hidráulico para tubulações
+X
+3.5
+Lista de linhas
+X
+3.6
+Rota de tubulação com indicação de suporte e estrutura (locação)
+X
+3.7
+Plantas e cortes de tubulação
+X
+3.8
+Isométricos
+
+3.9
+Detalhamento de spools
+
+3.10
+Projeto de suporte, estruturas (pipe way/ pipe rack) e tipos de fixação de tubulações
+X
+3.11
+Plantas de locação de hidrantes; 
+X
+3.12
+Plano de cargas das linhas de tubulação, quando aplicável
+X
+3.13
+Especificação técnica para compra de equipamentos de sistemas e materiais
+X
+3.14
+Folhas de dados
+X
+3.15
+Lista de materiais de tubulação e suporte
+
+3.16
+Lista de tie ins*
+X
+3.17
+Lista de válvulas e instrumentos
+X
+3.18
+Planilha de Quantidades
+X
+3.19
+As built após instalação do projeto
+
+3.20
+Projeto de SPCI (Sistema de Proteção Contra Incêndio)
+X
+4
+MECANICA
+
+4.1
+Dados básicos
+X
+4.2
+Critérios de projeto
+X
+4.3
+Levantamentos topográficos e/ou Laser Scan*
+X
+4.4
+Layouts e arranjos gerais
+X
+4.5
+Desenhos de arranjo, plantas e cortes, de conjuntos e subconjuntos
+X
+4.6
+Desenhos de detalhe (e fabricação, quando aplicável)
+
+4.7
+Planos de rigging, quando aplicável
+X
+4.8
+Desenhos e/ou procedimentos para modificações de instalações existentes e tie-ins onde aplicável
+4.9
+Plano de cargas e fixação das estruturas
+X
+4.10
+Especificações técnica de compra (Equipamentos e Serviços)
+X
+4.11
+Folhas de dados
+X
+4.12
+Dimensionamento (memória de cálculo) de equipamentos mecânicos
+X
+4.13
+Lista de equipamentos mecânicos
+X
+4.14
+Plano de execução da montagem eletromecânica
+X
+4.15
+Planilha de Quantidades
+X
+4.16
+As built após instalação do projeto
+
+5
+INFRA-ESTRUTURA
+
+5.1
+Dados básicos
+X
+5.2
+Critérios de projeto
+X
+5.3
+Memorial Descritivo das obras de infraestrutura
+X
+5.4
+Memórias de Cálculos dos volumes de terraplenagem
+X
+5.5
+Memórias de Cálculos dos dispositivos de drenagem
+X
+5.6
+Memórias de Cálculos de pavimentação
+X
+5.7
+Planta geral de terraplenagem
+X
+5.8
+Planta geral de drenagem
+X
+5.9
+Planta geral de pavimentação
+X
+5.10
+Desenhos de Terraplenagem - plantas, cortes e seções
+X
+5.11
+Desenhos de Drenagem - plantas, cortes e seções
+X
+5.12
+Projeto de drenagem pluvial, inclusive dispositivos de drenagem, tais como sarjetas, bocas de lobo, bueiros, canaletas, caixas de passagem etc; 
+5.13
+Desenhos de Pavimentação dos Sistemas Viários - plantas, cortes e seções
+X
+5.14
+Projeto de esgoto sanitário
+X
+5.15
+Especificação técnica para desenvolvimento dos serviços de infraestrutura
+X
+5.16
+Estudo de Logística para o Canteiro e Obras e Rotas de Acesso
+X
+5.17
+Plano diretor do canteiro de obras (facilidades temporárias requeridas durante a construção, tais como energia, água, escritórios, acomodações);
+5.18
+Definição geométrica e do tipo estrutural das contenções e das proteções de taludes
+X
+5.19
+Projeto de contenções do tipo, gabião, terra armada, terra mash etc
+X
+5.20
+Planilha de contratação dos serviços de infraestrutura
+
+5.21
+Poligonal de desmatamento
+X
+5.22
+Estudo topográfico
+X
+5.23
+Estudo Locacional, estudo de alternativas, Trade-off's
+
+5.24
+Arranjo geral
+X
+5.25
+Plantas, seções típicas
+X
+5.26
+Sistema de drenagem interna, superficias
+X
+5.27
+Projetos de Forma 
+X
+5.28
+Projetos de Armação
+
+5.29
+Planilha de Quantidades
+X
+5.30
+As built após instalação do projeto
+
+6
+CONCRETO
+
+6.1
+Dados básicos de projeto
+X
+6.2
+Critérios de projeto
+X
+6.3
+Memórias de Cálculos
+X
+6.4
+Desenhos de Formas
+X
+6.5
+Desenhos de Armação
+
+6.6
+Desenhos de Inseridos Metálicos
+
+6.7
+Planilha de contratação das obras civis
+X
+6.8
+Especificação técnica para contratação de obras civis
+X
+6.9
+Planos de escavação
+X
+6.10
+Especificação técnica para execução de Sondagens
+X
+6.11
+Plano de Concretagem
+
+6.12
+Plano de Sondagem
+X
+6.13
+Ensaios em Solos (compactação, caracterização, etc.)*
+X
+6.14
+Planilha de Quantidades
+X
+6.15
+As built após instalação do projeto
+6.99
+Sondagem de solo
+X
+
+7
+ESTRUTURA METÁLICA
+
+7.1
+Dados básicos 
+X
+7.2
+Critérios de projeto
+X
+7.3
+Memorial Descritivo
+X
+7.4
+Memórias de Cálculos
+X
+7.5
+Desenhos de Arranjo Geral
+X
+7.6
+Diagrama de Montagem
+
+7.7
+Desenho de Fabricação
+
+7.8
+Lista de Material 
+X
+7.9
+Planilha de Quantidades 
+X
+7.10
+Especificações Técnica de Compra
+X
+7.11
+As built após instalação do projeto
+
+8
+ARQUITETURA
+
+8.1
+Dados básicos
+X
+8.2
+Critérios de projeto
+X
+8.3
+Arranjo Geral - Arquitetura
+X
+8.4
+Memorial Descritivo
+X
+8.5
+Projeto de Arquitetura
+
+8.6
+Planilha de Quantidades 
+X
+8.7
+Especificações Técnica de Compra
+X
+8.8
+Arranjo geral de urbanização
+X
+8.9
+As built após instalação do projeto
+
+9
+ELÉTRICA
+
+9.1
+Dados básicos
+X
+9.2
+Critérios de projeto
+X
+9.3
+Estudo sobre cargas, demanda, cargas críticas
+X
+9.4
+Estudo de curto-circuito, fluxo de potência, qualidade de energia e harmônicos (quando aplicável)
+9.5
+Estudo de seletividade e coordenação da proteção (quando aplicável)
+
+9.6
+Estudo de coordenação de isolamento (quando aplicável)
+X
+9.7
+Diagramas unifilares
+X
+9.8
+Memórias de cálculo
+X
+9.9
+Memorial Descritivo
+X
+9.10
+Locação e arranjo de salas elétricas, SE secundárias e SE principal
+X
+9.11
+Arranjo de equipamentos elétricos (planta e corte)
+X
+9.12
+Detalhes típicos de montagem
+
+9.13
+Traçado de linha de transmissão e redes aéreas (quando aplicável)
+X
+9.14
+Projetos das linhas de transmissão e redes aéreas (planta, perfil, faixa de servidão, estruturas, fundações, aterramento, confiabilidade) (quando aplicável)
+9.15
+Rota de cabos
+X
+9.16
+Rede de dutos subterrâneos, eletrodutos e leitos para cabos
+X
+9.17
+Projeto de embutidos
+
+9.18
+Requisitos civis
+X
+9.19
+Projeto de aterramento e SPDA
+X
+9.20
+Projeto de proteção passiva
+
+9.21
+Projeto de iluminação e tomadas
+X
+9.22
+Projeto elétrico de barramentos de PRs (quando aplicável)
+X
+9.23
+Lista de sensores e motores
+X
+9.24
+Estudo de partida de motores (quando aplicável)
+X
+9.25
+Diagramas funcionais típicos
+X
+9.26
+Desenhos funcionais dos painéis elétricos
+
+9.27
+Projeto do sistema de geração de emergência (quando aplicável)
+X
+9.28
+Projeto de UPS, retificadores de bateria e bancos de baterias
+X
+9.29
+Folhas de dados
+X
+9.30
+Lista de equipamentos elétricos
+X
+9.31
+Lista de cabos elétricos
+X
+9.32
+Plano de corte de bobinas
+
+9.33
+Lista de materiais elétricos
+X
+9.34
+Especificações técnica de compra da próxima fase
+X
+9.35
+Especificações técnicas dos principais equipamentos
+X
+9.36
+Especificação técnica de ar condicionado das salas elétricas
+X
+9.37
+Especificação técnica de sistema de detecção e alarme de incêndio, proteção passiva
+X
+9.38
+Planilha de Quantidades
+X
+9.39
+As built após instalação do projeto
+
+9
+INSTRUMENTAÇÃO, AUTOMAÇÃO E CONTROLE / REDES
+
+9.1
+Dados básicos (quando aplicável executar em FEL 1)
+X
+9.2
+Critérios de projeto
+X
+9.3
+Memorial Descritivo
+X
+9.4
+Descritivo Funcional
+
+9.5
+Lógicas de intertravamento e controle
+
+9.6
+Diagrama de malhas e interligação
+X
+9.7
+Diagrama de Configuração de Sistemas de Automação
+X
+9.8
+Lista de entradas e saídas
+X
+9.9
+Lista de Instrumentos
+X
+9.10
+Lista de Materiais/Equipamentos 
+X
+9.11
+Lista de alimentação de cargas elétricas da automação
+X
+9.12
+Lista de softwares de automação (licenças)
+X
+9.13
+Folhas de Dados
+X
+9.14
+Desenhos de locação e instalação 
+X
+9.15
+Arranjo das salas de controle
+X
+9.16
+Desenhos de rotas de cabos de automação
+X
+9.17
+Especificações Técnica de Compra
+X
+9.19
+Especificação de serviços/equipamentos de integração do sistema de controle da planta
+X
+9.20
+Planilha de Quantidades
+X
+9.21
+As built após instalação do projeto
+
+9.22
+Desenvolvimento dos Aplicativos do Sistema de Controle e Supervisão
+
+9.23
+Especificação Funcional do Sistema de Controle e Supervisão
+
+10
+TI
+
+10.1
+Dados básicos
+X
+10.2
+Critérios de projeto
+X
+10.3
+Diagrama de Configuração de redes + Rotas de Cabos
+X
+10.4
+Lista de Equipamentos e Componentes
+
+10.5
+Especificações Técnica / Funcional
+X
+10.6
+Especificação de Requisitos
+
+10.7
+As built após instalação do projeto
+
+
+7.1. FORNO ELÉTRICO EBT  
+O novo forno FEA EBT, será implantado na aciaria da GERDAU Pindamonhangaba no local do existente o FEA 81. 
+
+Subconjuntos a serem desmontados do forno existente: 
+* Plataforma Basculante;
+* Carcaça 
+* Pórtico e sistema de giro
+* Abóbada
+* Braços refrigerados 
+* Cabos elétricos refrigerados e em geral 
+* Cilindros em geral 
+* Sistema hidráulico, vasos de pressão, moto bombas, tanques, trocadores de calor etc.
+* Sistema de refrigeração (água), tubulações, mangueiras etc. 
+* Sistema de gases
+* Tubulações, mangueiras, mangotes, suportes etc.
+* Elbow 
+* Duto refrigerado do sistema primário de exaustão até a câmara de combustão
+* Câmara de combustão 
+* Duto refrigerado do sistema primário de exaustão até a saída do prédio da aciaria. 
+* Transformador existente 
+* Painéis elétricos, mesa de comando, púlpitos etc. 
+* Cabos elétricos e infraestrutura tais como eletrodutos, eletrocalhas etc.
+* Retirada de escadas, passarelas, plataformas etc.
+* Sistema de ar-condicionado, tubos, mangueiras etc.
+* Desmontagem dos dois carros cestões existentes, trilhos, estrutura elétrica etc.
+* Desmontagem e readequação do sistema de dosagem de cal nos dois cestões
+* Desmontagem e realocação do sistema vertical de aquecedores de panela 
+* Desmontagem e realocação do sistema horizontal de aquecedores de panela 
+* Desmontagem e realocação dos berços de manutenção das panelas 
+* Desmontagem e realocação do sistema de preenchimento de areia (Panelas)
+* Desmontagem e realocação do sistema de silos de armazenamento e dosagem de cal e ligas do forno FEA 82.
+* Desmontagem e realocação do partition wall na região do silo de armazenamento realocado
+* Fornecer e instalar tubulações da rede de água de refrigeração indireta do forno e despoeiramento conforme projeto UP-513.012-T-4007 (ESTUDO DE NOVA ROTA DE ALIMENTAÇÃO DE ÁGUA INDUSTRIAL).
+* Realocação dos painéis de média e baixa tensão da SE-09
+* Realocação de painel e transformador TR-195 da SE-09 para a SE 19.14, conforme projeto UP-513.012-M-7026. 
+
+Obs: Todas as tubulações retiradas devem ser tamponadas próximo as válvulas e TOP's indicados em visita de campo. 
+
+
+Figura 1 - Forno FEA NOVO EBT, imagem ilustrativa.
+
+
+
+Figura 2 - Forno FEA 81 existente, equipamento a ser desmontado.
+
+
+
+COMPOSIÇÃO DOS EQUIPAMENTOS DO FORNO EBT.
+* Carro Cestão;
+* Forno EBT;
+* Carro panela;
+* Pote de escória;
+* Sala elétrica e cubículos;
+* Pulpito de operação;
+* Utilidades;
+* Sala elétrica do transformador e do reator; 
+* MHS - Sistema de Cal e Ligas;
+* FTP - Sistema de Despoeiramento: HQT/WCD/ Bag House/ Downcomer/ Combustion Chamber
+* WTP - Estação de tratamento de água e utilidades;
+* Canopy hood - coifa de exaustão;
+* Sistema de Injeção de carbono e cal no forno EBT.
+7.2. CARRO CESTÃO 
+
+Figura 3 - Novo carro cestão, imagem ilustrativa.
+
+7.3. FORNO ELÉTRICO A ARCO - EBT 110 T
+O forno elétrico a arco EBT se resume em: 
+7.3.1. PLATAFORMA DE BASCULAMENTO
+
+Figura 4 - Plataforma basculante, imagem ilustrativa.
+7.3.2. CARCAÇA BI-PARTIDA	
+7.3.2.1. CARCAÇA INFERIOR 
+
+Figura 5 - Carcaça inferior, imagem ilustrativa.
+7.3.2.2. CARCAÇA SUPERIOR E PAINÉIS REFRIGERADOS 
+
+Figura 6 - Carcaça superior e painéis refrigerados, imagem ilustrativa.
+7.3.3. ABÓBADA REFRIGERADA
+
+Figura 7 - Abóbada refrigerada, imagem ilustrativa.
+
+
+7.3.4. CONJUNTO DE PÓRTICO E GIRO
+
+Figura 8 - Conjunto de portico e giro FEA EBT, imagem ilustrativa.
+
+7.3.5. BRAÇO DO ELETRODO
+ 
+Figura 9 - Conjunto braço do eletrodo, imagem ilustrativa.
+7.4. AUXILIARES DO FORNO ELÉTRICO A ARCO FEA EBT
+Dos sistemas auxiliares do forno vale destacar: 
+a) painéis refrigerados na carcaça superior, completo com mangueiras e conexões
+b) elbow na abóbada 
+c) câmara de combustão, painéis refrigerados, mangueiras, tubulações etc.
+d) Sistema hidráulico, tubulações, manifold, rack, válvulas etc. (TOP Gerdau até os equipamentos)
+e) Sistema de lubrificação, tubulações, manifold, rack, válvulas etc. (TOP Gerdau até os equipamentos) 
+f) Sistema de refrigeração do forno, tubulações, manifold, rack, válvulas etc. (TOP Gerdau até os equipamentos)
+g) Sistema de injeção do pacote químico, incluso os silos de armazenamento, injetores e painéis de injeção da carcaça 
+h) Rack de gases de oxigênio, GN e Nitrogênio (Pacote químico e manipulador de O2)
+i) Sistema de limpeza da porta de retirada de escoria 
+j) Robô de temperatura e amostragem 
+k) Robô de abertura de emergência e limpeza
+l) Robô selagem do canal do EBT (adição de areia)
+m) Escadas, passarelas e plataformas 
+n) Sistema de supervisório e automação
+o) Painéis de média e baixa tensão  
+p) Motank 
+q) Manipulador de lança (Grafite e Oxigênio)
+
+7.5. GERAL
+
+* Execução de conferência topográfica civil (bases) e do posicionamento dos equipamentos mecânicos montados.
+* Elaboração de plano de Rigging para a movimentação de cargas acima de 10 toneladas, incluindo estudo de plano de obra para o correto dimensionamento dos equipamentos a serem utilizados. Conforme procedimento GERDAU PIN-PR-245-005.
+* PADRÃO DE pintura de tubulações, fabricação de Spool e montagem em campo, incluindo, os ensaios não destrutivos aplicados conforme requerido pela norma ANSI B31.3, testes hidrostáticos e decapagens químicas;
+* Instalações elétricas de ATERRAMENTO DOS EQUIPAMENTOS; 
+* A PROPONENTE deverá realizar levantamentos de campo para execução dos trabalhos;
+* Prever serviços de topografia, assim como recursos necessários para este serviço, com emissão de Relatório Final das locações com cotas e elevações;
+* Todos os EPIs e EPCs para garantir a segurança;
+
+7.6. CERCA DE SEGURANÇA NR12 - RED ZONE
+
+Engenharia básica das proteções de segurança ao redor do forno e nas áreas de risco conforme desenhos similares do forno 82 existente:
+UP-513.014-A-0008 - LAYOUT DE SEGURANÇA - EBT 82 - 95 t (FOLHA 01)
+UP-513.014-A-0009 - LAYOUT DE SEGURANÇA - EBT 82 - 95 t (FOLHA 02)
+UP-513.014-A-0010 - LAYOUT DE SEGURANÇA - DESPOEIRAMENTO (FTP) - EBT 82 - 95 t (FOLHA 01)
+UP-513.014-A-0011 - LAYOUT DE SEGURANÇA - DESPOEIRAMENTO (FTP) - EBT 82 - 95 t (FOLHA 02)
+
+7.6.1. INSTALAÇÕES ELÉTRICAS
+
+7.6.1.1. CFTV
+
+REQUISITOS GERAIS 
+Os equipamentos que comporão o sistema de CFTV deverão obedecer aos seguintes requisitos:  
+* Em aplicações específicas, conforme definido no projeto, deverá resistir a ambientes com agressão química e condições ambientes agressivas;  
+* A alimentação dos equipamentos deverá ser através de tensão estabilizada e no-break;  
+* O campo de visão das câmeras deverá ter iluminação adequada para que, mesmo no horário noturno, as imagens tenham definição e qualidade para a operação;  
+* Os equipamentos e câmeras que utilizarem tecnologia óptica deverão possuir interface para fibra óptica tipo monomodo;  
+* O acesso aos dados de configuração das câmeras deverá ser restrito, protegido por meio de senhas e autorizações;  
+* Os demais requisitos descritos na especificação técnica UP-513-ES-E-0001 deverão ser atendidos;  
+ 
+O sistema de CFTV, seja para monitoramento de processo e segurança contemplado a implantação do "safety analytics", deverá ser de tecnologia digital e estar capacitado a operar continuamente. Todas as câmeras do sistema CFTV serão alimentadas através do rack existente na sala de controle do forno, devendo ser consultado todos os documentos e desenhos disponibilizados pela Gerdau.
+
+7.6.1.2. SISTEMA DE TRAVAMENTO E SINALIZAÇÃO DOS PORTAIS
+
+Toda a sinalização dos portais e as fechaduras eletromagnéticas serão alimentadas através das remotas existentes na área, sendo considerada a automação de acordo com cada etapa do processo do Forno FEA EBT, fazendo com que os portais permaneçam fechados e/ou liberados de acordo com as informações levantadas em campo junto ao Departamento da Operação e Segurança da área local.
+As sinalizações deverão conter as cores, símbolos e/ou escritas conforme os modelos abaixo:
+                                                                     
+
+7.6.1.3. CANCELAS
+
+As cancelas serão alimentadas através da sala elétrica do forno. As cancelas possuirão acionamento através de botões, não haverá automação nestes equipamentos.
+7.6.1.4. CONSIDERAÇÕES
+
+Todos os projetos, bem como os desenhos existentes que servirão como auxílio na execução estão listados no item 7.9 
+7.7. MHS - Sistema de Adição de Cal e Ligas
+O MHS, será implantado na aciaria da GERDAU Pindamonhangaba. Os Silos serão instalados na área externa do prédio da aciaria próximo ao portão 4. Faz parte desse escopo a remoção de interferências das tubulações (relocação) do pipe rack para a instalação do trecho do transportador de correias de Cal. 
+
+
+Figura  - pipe rack interno da aciaria
+
+ Fluxograma Orientativo  
+
+
+
+7.7.1  DESENHOS ORIENTATIVOS 
+7.7.2 ESTAÇÃO DE RECEBIMENTO E ARMAZENAMENTO  
+
+7.7.3 TRANSFERÊNCIAS 
+
+
+7.7.4 SISTEMA DE DESCARGA NA PANELA 
+
+7.8 ESTAÇÃO DE RECEBIMENTO DE CAL E LIGAS
+A estação de recebimento de cal e ligas consiste em um galpão de basculamento onde o caminhão com semirreboque de até 9 metros descarregará sobre o alimentador de arraste (AA-1). 
+
+7.9  ALIMENTADOR DE ARRASTE (AA-1)  
+Recebe o basculamento do caminhão e alimenta o transportador Z-Belt (ZB-1). 
+7.10 GALPÃO DE BASCULAMENTO, COMPOSTO DE:
+
+* Estrutura metálica em construção em aço carbono; 
+•      Cobertura em chapa de aço galvanizada e pintada; 
+•     Tapamento lateral em chapa de aço galvanizada e pintada. 
+ 
+7.11 SISTEMA DE DESPOEIRAMENTO
+Sistema de Despoeiramento com Filtro de Mangas para o Galpão de Basculamento da Estação de Recebimento de Cal e Ligas.   
+7.11.1  FILTRO DE MANGAS
+ 
+
+7.11.2 REDE DE DUTOS 
+Um conjunto de dutos e suas derivações, em aço carbono, partindo do galpão de basculamento até o Filtro de Mangas.
+• Um conjunto de dutos em aço carbono para a interligação dos equipamentos: Filtro de Mangas, Exaustor e Chaminé.
+• Um conjunto de suportes em aço carbono para os conjuntos de dutos acima.
+• Distância máxima de 10 metros entre o galpão de basculamento e o Filtro de Mangas
+
+7.11.3 EXAUSTOR 
+
+
+
+
+7.11.4 CHAMINÉ  
+
+
+
+
+
+
+
+
+
+
+7.12 TRANSPORTADOR Z-BELT (ZB-1) 
+Recebe do alimentador de arraste (AA-1) e alimenta o transportador móvel e reversível (TC-1). 
+
+
+7.13 TRANSPORTADOR DE CORREIA MÓVEL E REVERSÍVEL (TC-1) 
+Recebe do transportador Z-belt (ZB-1) e descarrega nos silos 1@17. 
+
+
+7.14 SILOS 
+Dados básicos dos silos de 120m³ e 45m³:
+
+
+
+
+
+
+7.14.1 SILO PARA CAL CALCÍTICA (SL-1) 
+Armazenamento de cal calcítica. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-1). 
+7.14.2 SILO PARA CAL CALCÍTICA (SL-2) 
+Armazenamento de cal calcítica. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-1). 
+7.14.3 SILO PARA CAL CALCÍTICA (SL-3) 
+Armazenamento de cal calcítica. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-1). 
+7.14.4 SILO PARA CAL DOLOMÍTICA (SL-4) 
+Armazenamento de cal dolomítica. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-2). 
+7.14.5 SILO PARA CAL CALCÍTICA (SL-5) 
+Armazenamento de cal calcítica. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-3). 
+
+7.14.6 SILO PARA CAL DOLOMÍTICA (SL-6)
+Armazenamento de cal dolomítica. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-3). 
+ 
+7.14.7 SILO PARA LIGA DE FESIMN (SL-7) 
+Armazenamento de liga de FeSiMn. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-4). 
+7.14.8 SILO PARA LIGA E FECR ALTO CARBONO (SL-8) 
+Armazenamento de liga de FeCr alto carbono. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-4). 
+
+7.14.9 SILO PARA LIGA DE FESI (SL-9)  
+Armazenamento de liga de FeSi. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-5). 
+
+7.14.10 SILO PARA ALUMINATO DE CÁLCIO (SL-10) 
+Armazenamento de aluminato de cálcio. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-5). 
+
+7.14.11 SILO PARA CARVÃO (SL-11) 
+Armazenamento de carvão. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-6). 
+7.14.12 SILO PARA FLUORITA (SL-12) 
+Armazenamento de fluorita. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-6). 
+7.14.13 SILO PARA LIGA DE FENI (SL-13) 
+Armazenamento de liga de FeNi. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-7). 
+7.14.14 SILO PARA LIGA DE FECR BAIXO CARBONO (SL-14)
+Armazenamento de liga de FeCr baixo carbono. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-7). 
+7.14.15 SILO PARA GRAFITE (SL-15) 
+Armazenamento de grafite. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-8). 
+7.14.16 SILO EXTRA (SL-16)
+Armazenamento extra. Recebe do transportador de correia móvel e reversível (TC-1) e descarrega na moega de pesagem (MP-8). 
+7.15 MOEGAS DE PESAGEM 
+7.15.1 MOEGA DE PESAGEM (MP-1)
+Recebe dos silos (SL-1/2) e descarrega no transportador Z-belt (ZB-2). 
+
+
+
+
+
+
+
+
+7.15.2 MOEGA DE PESAGEM (MP-2) 
+Recebe dos silos (SL-3/4) e descarrega no transportador Z-belt (ZB-2). 
+
+7.15.3 MOEGA DE PESAGEM (MP-3) 
+Recebe dos silos (SL-5/6) e descarrega no transportador Z-belt (ZB-2). 
+
+7.15.4 MOEGA DE PESAGEM (MP-4) 
+Recebe dos silos (SL-7/8) e descarrega no transportador Z-belt (ZB-2). 
+
+
+7.15.5 MOEGA DE PESAGEM (MP-5) 
+Recebe dos silos (SL-9/10) e descarrega no transportador Z-belt (ZB-2). 
+
+
+7.15.6 MOEGA DE PESAGEM (MP-6)  
+Recebe dos silos (SL-11/12) e descarrega no transportador Z-belt (ZB-2). 
+
+
+7.15.7 MOEGA DE PESAGEM (MP-7) 
+Recebe dos silos (SL-13/14) e descarrega no transportador Z-belt (ZB-2). 
+
+
+7.15.8 MOEGA DE PESAGEM (MP-8)
+Recebe dos silos (SL-15/16) e descarrega no transportador Z-belt (ZB-2). 
+
+
+7.16 TRANSPORTADOR Z-BELT (ZB-2) 
+Recebe das moegas de pesagem (MP-1@6) e alimenta os transportadores de correia (TC-2/4). 
+
+7.17 TRANSPORTADOR DE CORREIA (TC-2) 
+Recebe do transportador Z-belt (ZB-2) e descarrega no transportador de correia (TC-3). 
+
+
+7.18 TRANSPORTADOR DE CORREIA (TC-3)
+Recebe do transportador de correia (TC-2) e descarrega nos silos de estocagem (SE-1@4). 
+
+
+7.19 TRANSPORTADOR DE CORREIA (TC-4) 
+Recebe do transportador Z-belt (ZB-2) e descarrega nos silos de cal existentes (desenho: "Silo de cal"). 
+
+
+
+7.20 CASAS DE TRANSFERÊNCIA 
+7.20.1 CASA DE TRANSFERÊNCIA (CT-1)
+Suporta a transferência do Transportador Z-belt (ZB-2) para os Transportadores de Correia (TC-2/4). 
+Dados Orientativos 
+Dimensões em planta: 
+3.000 mm x 3.000 mm 
+Altura: 
+26.500 mm 
+ 
+7.20.2 CASA DE TRANSFERÊNCIA (CT-2)
+Suporta a transferência do Transportador de Correia (TC-2) para os Transportador de Correia (TC-3). 
+ Dados Orientativos 
+Dimensões em planta: 
+3.000 mm x 3.000 mm 
+Altura: 
+22.000 mm 
+
+7.21 SISTEMA DE DESCARGA NA PANELA 
+7.21.1 PRÉDIO PARA OS SILOS DE ESTOCAGEM
+Suporta o Sistema de Descarga na Panela, composto por Silos de Estocagem (SE-1@4) e Chute Giratório (CG-1). 
+Dados Orientativos 
+Dimensões em planta: 
+5.000 mm x 5.000 mm 
+Altura: 
+22.000 mm 
+
+7.21.2 SILO DE ESTOCAGEM (SE-1) 
+Recebe do transportador de correia (TC-3) e descarrega no chute giratório (CG-1). 
+
+7.21.3 SILO DE ESTOCAGEM (SE-2) 
+Recebe do transportador de correia (TC-3) e descarrega no chute giratório (CG-1). 
+
+7.21.4 SILO DE ESTOCAGEM (SE-3) 
+Recebe do transportador de correia (TC-3) e descarrega no chute giratório (CG-1). 
+
+7.21.5 SILO DE ESTOCAGEM (SE-4) 
+Recebe do transportador de correia (TC-3) e descarrega no chute giratório (CG-1). 
+
+7.22 CHUTE GIRATÓRIO (CG-1) 
+Recebe do transportador dos silos de estocagem (SE-1@4) e descarrega na panela existente ou em local destinado pela Gerdau para rejeito. 
+
+
+7.23 SISTEMA ELÉTRICO 
+7.24 CONTROLADOR LÓGICO PROGRAMÁVEL (PLC) 
+7.25 CENTRO DE CONTROLE DE MOTORES (CCM)  
+7.26 SISTEMA DE SUPERVISÃO 
+7.27 CAIXAS ELÉTRICAS DE COMANDO LOCAL 
+
+8 SILOS EXTERNOS DE ARMAZENAMENTO DE CAL E COQUE PARA INJEÇÃO NO FORNO
+
+silos externos de armazenamento de cal e coque.
+Sistema de injeção pneumática para arrastar partículas de 0 a 4mm, utilizando ar comprimido. Os materiais a serem injetados são cal e coque. O recebimento do material deverá ser feito através de caminhão tanque, que descarregará a carga e alimentará os silos externos. A alimentação interna dos silos dos injetores, deve ser feita através de automação quanto ao nível do silo. A taxa de injeção é um parâmetro fornecido pela automação do EAF.
+
+
+Material
+Tamanho do Silo
+(m³)
+Peso de Armazenamento
+(t)
+Densidade
+(t/m³)
+Tamanho do material
+Coke injection EAF
+200
+180
+0,9
+10 to 50 mm 
+(+/-10%out)
+Lime injection EAF
+200
+214
+1,07
+10 to 50 mm 
+(+/-10%out)
+	
+9 FTP - Despoeiramento
+
+A coifa será reaproveitada na região acima do novo EBT com pequenas alterações. 
+
+Figura  - Coifa sobre o EBT, imagem ilustrativa
+
+Figura  - Coifa existente, a ser desmontado.
+
+9.1 HQT ( QUENCHING TOWER)
+
+
+
+Figura  - Nova Quenching Tower, imagem ilustrativa.
+
+9.2 CASA DE MANGAS, CHAMINÉ E VENTILADORES - EBT 110 T
+O escopo de serviços de montagem e materiais eletromecânicos a serem fornecidos está detalhado conforme projetos conceituais. 
+
+9.2.1 CASA DE MANGAS
+
+Figura - Casa de mangas, chaminé e ventiladores, imagem ilustrativa.
+9.3 DUTOS 
+9.3.1 DUTOS REFRIGERADOS 
+
+Figura - Trecho duto refrigerado
+9.3.2 DUTOS SECOS 
+
+Figura  - Trecho duto seco (Equipamento colorido) 
+
+9.4 AUXILIARES DO SISTEMA DE DESPOEIRAMENTO DO FORNO ELÉTRICO A ARCO FEA EBT
+Está considerado no escopo da CONTRATADA fornecer todos os recursos e materiais necessários para perfeita execução do sistema de despoeiramento do forno conforme projetos conceituais. Dos sistemas auxiliares do forno vale destacar: 
+
+Sistema de Despoeiramento.
+a) Filtros de mangas;
+b) Ventiladores principais;
+c) Ventilador de Exaustão (Booster);
+d) Ventilador de Ar Reverso;
+e) Rede dutos (incluindo dampers, juntas de expansão, selas, dutos refrigerados e etc.);
+f) Estruturas;
+g) Quenching Tower;
+h) Câmara de Mistura;
+i) Suportes estruturais;
+j) Sistema de transporte mecânico de pó;
+k) Silo de estocagem (incluindo rosca extratora, válvulas faca e rotativa);
+l) Escadas e plataformas.
+m) Portal detector radiação
+
+Equipamentos Elétricos, de Instrumentação e Automação.
+n) 01 Transformadores de 4MVA;
+o) 01 Painel de Baixa Tensão (CCM);
+p) Painéis Locais;
+q) Cubículos de média e baixa tensão;
+r) Instrumentação;
+s) Iluminação;
+t) Aterramento e SPDA;
+u) Cabos, bandejas, eletrodutos, eletrocalhas e etc.
+
+Utilidades
+v) Tubos e conexões;
+w) Válvulas;
+x) Suportes;
+y) Acessórios em geral.
+
+
+10 List of documents:
+
+ELECTRIC ARC FURNACE (EAF) EBT:
+
+General Lay out
+- MELTSHOP PLANT - EAF EBT - GENERAL PLAN VIEW
+- MSP - STEEL FRAMED BUILDING - TECHNOLOGICAL HEAT LOSSES
+- MELTSHOP PLANT - EAF EBT - SECTION (longitudinal)
+- MELTSHOP PLANT - EAF EBT - SECTION (transverse)
+- MELTSHOP PLANT - EAF EBT - TAKE OVER POINT LAYOUT
+- MSP - EAF EBT CABIN LAYOUT - PLANS AND SECTIONS
+- SAFETY LAYOUT - EAF 0,00 LEVEL
+- SAFETY LAYOUT - EAF WORK PLATFORM LEVEL
+- MSP 3D model 
+Civil Engineering
+- EAF EBT FOUNDATION - PLAN VIEW FOR SECTIONS
+- EAF EBT FUNDATION BASIC DESIGN - PLAN VIEW 
+- EAF EBT FUNDATION BASIC DESIGN - SECTIONS 
+- EAF EBT FUNDATION BASIC DESIGN - DETAILS
+- EAF EBT FUNDATION BASIC DESIGN - LOADS, NOTES AND DETAILS
+- EAF EBT CABIN BASIC DESIGN - PLAN VIEW 
+- EAF EBT CABIN BASIC DESIGN - SECTIONS A-A AND B-B
+- EAF EBT CABIN BASIC DESIGN - DETAILS, NOTES AND LOADS
+- TAPPING CONTROL PULPIT BASIC DESIGN - PLAN, SECTIONS, LOADS & DETAILS
+- OXYGEN & NATURAL GAS VALVE TRAIN ROOM BASIC DESIGN - PLAN, SECTIONS, LOADS & DETAILS
+- EXISTING EAF EBT PLATFORM - PLAN VIEW AND SECTIONS
+- EAF EBT PLATFORM BASIC DESIGN - PLAN VIEW 
+- EAF EBT PLATFORM BASIC DESIGN - SECTIONS A-A & B-B
+- EAF EBT PLATFORM BASIC DESIGN - SECTIONS AND DETAILS
+- EAF EBT PLATFORM BASIC DESIGN - DETAILS AND LOADS
+
+Metallic Structure
+- CANOPY HOOD (BASIC DESIGN) Vista Planta e Elevação
+- CANOPY HOOD (BASIC DESIGN) Cortes: A, B C, D, E
+- CANOPY HOOD (BASIC DESIGN) Vista Lateral
+
+Electric
+- JB FOR ACCUMULATOR STAND
+- JB FOR EAF HYDRAULIC UNIT
+- JB FOR EAF VALVES STAND
+- JB FOR EAF AUXILIARY VALVES STAND
+- JB FOR EAF ELECTRODES VALVES STAND
+- ELECTRIC ARC FURNACE - SINGLE LINE DIAGRAM
+- ELECTRIC WTP - SINGLE LINE DIAGRAM
+- ELECTRIC MHS - SINGLE LINE DIAGRAM
+- ELECTRIC FTP - SINGLE LINE DIAGRAM
+- AUTOMATION DIAGRAM
+- SLD - SINGLE LINE DIAGRAM
+
+P&ID
+- AUTOMATIC REGULATED VALVES TRAIN UNIT FOR EAF - SHELL BOTTOM STIRRING - P&ID
+
+Mechanical
+-TILTING PLATAFORM ASSEMBLY
+- EBT INSTALLATION
+- EBT MOVABLE WALKWAY
+- LOWER SHELL ASSEMBLY
+- UPPER SHEEL ASSEMBLY
+- SHELL PANEL ASSEMBLY
+- SHELL PANEL ASSEMBLY
+- LADLE CAR
+- EAF ELECTRODE ARMS ASSEMBLY
+- ROOF LIFTING AND TURNING DEVICE
+- ROOF CARPENTRY ASSEMBLY
+- VALVES BOCK FOR EAF ACCUMULATORS
+- ACCUMULATORS STAND FOR EAF
+- GREASE MOTOR-PUMP GROUP - 30 KG TANK
+- HYDRAULIC UNIT FOR EAF
+- VALVE BLOCK
+- VALVES STAND FOR EAF AUXILIARY
+- VALVES STAND FOR ELECTRODES REGULATION
+- VALVES STAND FOR MANUAL TILTING EMERGENCY
+- ASSEMBLY FOR EAF MOBILE ELBOW VALVES BLOCK
+- VALVES STAND FOR EAF
+- EAF ELECTRODES EMERGENCY SOLENOID VALVE BLOCK
+- VALVE BLOCK ON BOARD
+- VALVES BLOCK FOR EAF ROOF LIFTING
+- VALVES BLOCK FOR EAF TILTING
+- EAF ROOF ROTATION VALVES BLOCK
+- ASSEMBLY FOR EAF ELECTRODES VALVES BLOCK
+- VALVES BLOCK FOR ELETRODE EMERGENCY
+- HYDRAULIC DIAGRAM FOR EAF UNIT
+- HYDRAULIC DIAGRAM FOR EAF ACCUMULATORS
+- HYDRAULIC DIAGRAM FOR EAF VALVES STANDS/BLOCKS FOR ALL EQUIPAMENTS
+- COOLING CIRCUIT EAF - FTP SERIES - DISTRIBUTION P&ID+PFD
+- EAF LIME INJECTION SYSTEM "CA" AND "IA" - DISTRIBUTION P&ID+PFD 
+- EAF MECHANICAL PARTS COOLING WATER "CW-CWR-EW" - DISTRIBUTION P&ID
+- EAF HEAT EXCHANGERS AREA "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM  P&ID
+- EAF ELECTRICAL PARTS AREA "CW-CWR" -  COOLING WATER DISTRIBUTION SYSTEM - P&ID
+- EAF COLUMNS, ARMS & CLAMPS "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+- EAF AREA "OX" OXYGEN - DISTRIBUTION P&ID
+- EAF AREA "OX" OXYGEN BLOCK AND BLEED - DISTRIBUTION P&ID
+- EAF AREA STIRRING & AUXILIARES "AR-NI" ARGON AND NITROGEN - DISTRIBUTION P&ID
+- EAF AREA "CA-IA" COMPRESSED AND INSTRUMENT AIR -  DISTRIBUTION P&ID+PFD
+- EAF AREA "CA-IA" COMPRESSED AND INSTRUMENT AIR -  DISTRIBUTION P&ID+PFD
+- EAF AREA "GN" NATURAL GAS - DISTRIBUTION P&ID
+- EAF AREA "GN" NATURAL GAS BLOCK AND BLEED - DISTRIBUTION P&ID
+- FTP QUENCHING TOWER AIR MIST DIRECT COOLING LINES "KW-CA"  -  DISTRIBUTION P&ID+PFD
+- FTP MOVABLE DUCT "CW-CER" COOLING WATER -  DISTRIBUTION P&ID+PFD
+- FTP FIXED DUCT 1 "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+- FTP FIXED DUCT 2 "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+- FTP SETTLING CHAMBER  "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+- FTP DUCTS OUT OF SETTLING CHAMBER "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+- FTP AREA "CA-IA" COMPRESSED & INSTRUMENT AIR - DISTRIBUTION SYSTEM P&ID+PFD
+- EAF ELECTRODES JOINTING STATION "CW" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+- NOTES AND SYMBOLS FOR P&ID & PFD
+- COOLING CIRCUITS EAF EBT - FTP SERIE - PROCESS FLUID DIAGRAM - PFD
+- WTP - FTP COOLING CIRCUIT - PROCESS FLOW DIADRAM - PFD
+- EAF POWER CABLES CIRCUIT "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM  P&ID
+- EAF SECONDARY CIRCUIT  "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM  P&ID 
+
+REFRACTORY
+- LOWER SHELL REFRACTORY
+- PINDA - SHELL REFRACTORY AND BATH LEVELS 
+- PINDA - EAF TILTING PLATAFORM  REFRACTORY
+
+PIPING
+- P.U - ELECTRIC ARC FURNACE (EAF) - HYDRAULIC FLOW SHEET
+- P.U - ELECTRIC ARC FURNACE (EAF) - GREASE LUBRICATION FLOW SHEET
+- P.U EAF & FTP PIPPING SYSTEM FEASIBILITY STUDY - PIPING KEY PLAN 
+- P.U EAF & FTP PIPPING SYSTEM FEASIBILITY STUDY - PLAN FROM EL +XXXX TO EL +YYYY
+- P.U EAF & FTP PIPPING SYSTEM FEASIBILITY STUDY - APLAN FROM EL +XXXX TO EL +YYYY
+- P.U EAF & FTP PIPPING SYSTEM FEASIBILITY STUDY - SECTION 
+
+AUTOMATION
+- ELECTRIC ARC FURNACE AUTOMATION BLOCK DIAGRAM
+- MHS AUTOMATION BLOCK DIAGRAM
+- FTP AUTOMATION BLOCK DIAGRAM
+- WTP AUTOMATION BLOCK DIAGRAM
+
+DATASHEET
+- EAF & FTP GASES BALANCE TABLE 
+- EAF & FTP COOLING WATER BALANCE TABLE 
+- ELECTRICAL DEVICES
+- CABLE WAYS
+- CABLE PULLING
+- WATER SPECIFICATION
+
+MOTOR AND COMPONENT LIST
+- EAF - Motor and Component List
+- FTP - Motor and Component List
+- WTP - Motor and Component List
+- MHS - Motor and Component List
+
+ FUME TREATMENT PLANT (FTP)
+
+General Lay out
+- FTP PLANT - FTP- GENERAL PLAN VIEW
+- FTP - STEEL FRAMED BUILDING - TECHNOLOGICAL HEAT LOSSES
+- FTP PLANT - FTP - SECTION
+- FTP PLANT - FTP - TAKE OVER POINT LAYOUT
+- FTP- FTP CABIN LAYOUT - PLANS AND SECTIONS
+- SAFETY LAYOUT
+- MAQUETE 3D
+
+Civil Engineering
+- FTP FOUNDATION - PLAN VIEW FOR SECTIONS
+- FTP FUNDATION BASIC DESIGN - PLAN VIEW
+- FTP FUNDATION BASIC DESIGN - SECTIONS A-A
+- FTP FUNDATION BASIC DESIGN - SECTIONS B-B, C-C AND DETAILS
+- FTP FUNDATION BASIC DESIGN - LOADS, NOTES AND DETAILS
+- FTP CABIN BASIC DESIGN - PLAN VIEW
+- FTP CABIN BASIC DESIGN - SECTIONS A-A AND B-B
+- FTP CABIN BASIC DESIGN - DETAILS, NOTES AND LOADS
+- FTP CONTROL PULPIT BASIC DESIGN - PLAN, SECTIONS, LOADS & DETAILS
+- FTP ELETRICAL ROOM- PLAN VIEW SECTIONS, LOADS & DETAILS
+- FTP BASIC DESIGN - PLAN VIEW, SECTIONS, LOADS & DETAILS
+- FTP BASIC DESIGN - SECTIONS A-A & B-B
+- FTP QUENCHIN TOWER BASIC DESIGN - PLAN VIEW, SECTIONS, LOADS & DETAILS
+- FTP QUENCHIN TOWER BASIC DESIGN - SECTIONS A-A & B-B
+- FTP SETTLING CHAMBER CIVIL WORKS & LOADS
+- FTP BAG FILTER CIVIL WORKS & LOADS
+- FTP - SAFETY LAYOUT
+
+FTP Metallic Structure
+- FTP (BASIC DESIGN) Vista Planta e Elevação
+- FTP (BASIC DESIGN) Cortes: A, B C, D, E
+- FTP (BASIC DESIGN) Vista Lateral
+
+Electric
+- ELECTRIC FTP - SINGLE LINE DIAGRAM
+- AUTOMATION DIAGRAM
+
+FTP P&ID
+- AUTOMATIC REGULATED VALVES TRAIN UNIT FOR FTP - P&ID
+
+Mechanical
+- FTP INSTALLATION
+- FTP MOVABLW WALKWAY
+- FTP VALVES BOCK FOR PULSE JET 
+- FTP GREASE MOTOR-PUMP GROUP
+- FTP PNEUMATIC DIAGRAM FOR FTP VALVES STANDS/BLOCKS
+- FTP COOLING CIRCUIT FTP SERIES - DISTRIBUTION P&ID+PFD
+- FTP ELECTRICAL PARTS AREA "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+- FTP COMPRESSED AND INSTRUMENT AIR - DISTRIBUTION P&ID+PFD
+- FTP QUENCHING TOWER AIR MIST DIRECT COOLING LINES "KW-CA" - DISTRIBUTION P&ID+PFD
+- FTP MOVABLE DUCT "CW-CER" COOLING WATER - DISTRIBUTION P&ID+PFD
+- FTP FIXED DUCT 1 "QW-QWR" COOLING WATER - DISTRIBUTION P&ID+PFD
+- FTP FIXED DUCT 2 "QW-QWR" COOLING WATER - DISTRIBUTION P&ID+PFD
+- FTP SETTLING CHAMBER "QW-QWR" COOLING WATER - DISTRIBUTION P&ID+PFD
+- FTP DUCTS OUT OF SETTLING CHAMBER "QW-QWR" COOLING WATER - DISTRIBUTION P&ID+PFD
+- FTP AREA "CA-IA" COMPRESSED & INSTRUMENT AIR - DISTRIBUTION SYSTEM P&ID+PFD
+- FTP NOTES AND SYMBOLS FOR P&ID & PFD
+- COOLING FTP SERIE - PROCESS FLUID DIAGRAM - PFD
+- FTP COOLING CIRCUIT - PROCESS FLOW DIADRAM - PFD
+- FTP BAG FILTER
+- DUST SILOS
+- FTP DUST CONVEYOR THREADS
+- FTP BASES OF ELECTRIC MOTORS
+- FTP METALLIC FAN BASES
+- FTP FANS
+- FTP CHIMNEY
+- FTP CONVEYOR BELTS
+FTP AUTOMATION
+- FTP AUTOMATION BLOCK DIAGRAM
+
+FTP DATASHEET
+- EAF & FTP GASES BALANCE TABLE 
+- EAF & FTP COOLING WATER BALANCE TABLE 
+- ELECTRICAL DEVICES
+- CABLE WAYS
+- CABLE PULLING
+- WATER SPECIFICATION
+
+MOTOR AND COMPONENT LIST
+- FTP - Motor and Component List
+
+MATERIAL HANDLING SYSTEM (MHS)
+
+General Lay out
+- MHS PLANT - FTP- GENERAL PLAN VIEW
+- MHS - STEEL FRAMED BUILDING - TECHNOLOGICAL HEAT LOSSES
+- MHS PLANT - MHS - SECTION A-A
+- MHS PLANT - MHS - SECTION B-B
+- MHS PLANT - MHS - TAKE OVER POINT LAYOUT
+- MHS- MHS CABIN LAYOUT - PLANS AND SECTIONS
+- SAFETY LAYOUT
+- MAQUETE 3D
+
+Civil Engineering
+- MHS FOUNDATION - PLAN VIEW FOR SECTIONS
+- MHS FUNDATION BASIC DESIGN - PLAN VIEW 
+- MHS FUNDATION BASIC DESIGN - SECTIONS A-A
+- MHS FUNDATION BASIC DESIGN - SECTIONS B-B, C-C AND DETAILS
+- MHS FUNDATION BASIC DESIGN - LOADS, NOTES AND DETAILS
+- MHS FUNDATION BASIC DESIGN - PLAN VIEW AT LEVEL
+- MHS CABIN BASIC DESIGN - PLAN VIEW
+- MHS CABIN BASIC DESIGN - SECTIONS A-A AND B-B
+- MHS CABIN BASIC DESIGN - DETAILS, NOTES AND LOADS
+
+Electric
+- ELECTRIC MHS - SINGLE LINE DIAGRAM
+- AUTOMATION DIAGRAM
+
+P&ID
+- AUTOMATIC REGULATED VALVES TRAIN UNIT FOR MHS- P&ID
+- WEIGHING SYSTEMS - P&ID
+
+Mechanical
+- MHS ASSEMBLY OF ALLOY SYSTEMS
+- MHS INSTALLATION
+- MHS MOVABLW WALKWAY
+- MHS ALLOY SILO ASSEMBLY
+- MHS ASSEMBLY OF THE ALLOY RECEIVING HOPPER
+- MHS ASSEMBLY OF THE BELT SYSTEM AND MUG LIFTERS
+- MHS CARPENTRY ASSEMBLY
+- ASSEMBLY FOR EAF ELECTRODES VALVES BLOCK
+- VALVES BLOCK FOR ELETRODE EMERGENCY
+- MHS SERIES - DISTRIBUTION P&ID+PFD
+- MHS LIME INJECTION SYSTEM "CA" AND "IA" - DISTRIBUTION P&ID+PFD 
+- MHS ELECTRICAL PARTS AREA 
+- MHS COMPRESSED AND INSTRUMENT AIR - DISTRIBUTION P&ID+PFD
+- NOTES AND SYMBOLS FOR P&ID & PFD
+- COOLING CIRCUITS EAF EBT - FTP SERIE - PROCESS FLUID DIAGRAM - PFD
+
+AUTOMATION
+- MHS AUTOMATION BLOCK DIAGRAM
+
+DATASHEET
+- ELECTRICAL DEVICES
+- CABLE WAYS
+- CABLE PULLING
+- LIST OF ELECTRICAL CABLES
+- WATER SPECIFICATION
+- DEDUSTING SYSTEM 
+
+MOTOR AND COMPONENT LIST
+- MHS - Motor and Component List
+- MHS - GEAR BOX
+11 Lista de desenhos de referência:
+Desenho
+Rev
+Classe
+Formato
+Titulo
+ UP-513.014-A-0002
+0
+A - GERAL
+A0L1
+MELTSHOP PLANT - NEW EAF - GENERAL PLAN VIEW
+ UP-513.014-A-0003
+0
+A - GERAL
+A0
+MSP - STEEL FRAMED BUILDING - TECHNOLOGICAL HEAT LOSSES
+ UP-513.014-A-0004
+0
+A - GERAL
+A0L1
+MELTSHOP PLANT - NEM EAF - SECTION A-A
+ UP-513.014-A-0005
+0
+A - GERAL
+A0L1
+MELTSHOP PLANT - NEM EAF - SECTION B-B
+ UP-513.014-A-0006
+0
+A - GERAL
+A0L1
+MELTSHOP PLANT - NEM EAF - TAKE OVER POINT LAYOUT
+ UP-513.014-A-0007
+0
+A - GERAL
+A0
+MSP - EAF EXISTING CABIN LAYOUT  - PLANS AND SECTIONS
+UP-513.014-M-0001
+0
+M - MECÂNICA
+A0
+TILTING PLATAFORM ASSEMBLY
+UP-513.014-M-0002
+0
+M - MECÂNICA
+A1
+EBT INSTALLATION
+UP-513.014-M-0003
+0
+M - MECÂNICA
+A0
+EBT MOVABLW WALKWAY
+UP-513.014-M-0004
+0
+M - MECÂNICA
+A1
+LOWER SHELL ASSEMBLY
+UP-513.014-M-0005
+0
+M - MECÂNICA
+A1
+UPPER SHEEL ASSEMBLY
+UP-513.014-M-0006
+0
+M - MECÂNICA
+A1
+SHELL PANEL ASSEMBLY
+UP-513.014-M-0007
+0
+M - MECÂNICA
+A1
+SHELL PANEL ASSEMBLY
+UP-513.014-M-0008
+0
+M - MECÂNICA
+A0
+LADLE CAR
+UP-513.014-M-0009
+0
+M - MECÂNICA
+A1
+EAF ELECTRODE ARMS ASSEMBLY
+UP-513.014-M-0010
+0
+M - MECÂNICA
+A0
+ROOF LIFTING AND TURNING DEVICE
+UP-513.014-M-0011
+0
+M - MECÂNICA
+A1
+ROOF CARPENTRY ASSEMBLY
+UP-513.014-E-0001
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR ACCUMULATOR STAND 1
+UP-513.014-E-0002
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR ACCUMULATOR STAND 2
+UP-513.014-E-0003
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR ACCUMULATOR STAND 3
+UP-513.014-M-0012
+0
+M - MECÂNICA
+A1
+VALVES BOCK FOR EAF ACCUMULATORS
+UP-513.014-M-0013
+0
+M - MECÂNICA
+A0
+ACCUMULATORS STAND FOR EAF
+UP-513.014-M-0014
+0
+M - MECÂNICA
+A0
+ACCUMULATORS STAND FOR EAF
+UP-513.014-M-0015
+0
+M - MECÂNICA
+A1
+GREASE MOTOR-PUMP GROUP - 30 KG TANK
+UP-513.014-E-0004
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR EAF HYDRAULIC UNIT
+UP-513.014-E-0005
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR EAF HYDRAULIC UNIT
+UP-513.014-M-0016
+0
+M - MECÂNICA
+A0
+HYDRAULIC UNIT FOR EAF
+UP-513.014-E-0006
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR EAF VALVES STAND
+UP-513.014-E-0007
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR EAF AUXILIARY VALVES STAND
+UP-513.014-E-0008
+0
+E - ELÉTRICA E ELETRÔNICA
+A0
+JB FOR EAF ELECTRODES VALVES STAND
+UP-513.014-M-0017
+0
+M - MECÂNICA
+A1
+VALVE BLOCK
+UP-513.014-M-0018
+0
+M - MECÂNICA
+A1
+VALVES STAND FOR EAF AUXILIARY
+UP-513.014-M-0019
+0
+M - MECÂNICA
+A0
+VALVES STAND FOR ELECTRODES REGULATION
+UP-513.014-M-0020
+0
+M - MECÂNICA
+A1
+VALVES STAND FOR MANUAL TILTING EMERGENCY
+UP-513.014-M-0021
+0
+M - MECÂNICA
+A1
+ASSEMBLY FOR EAF MOBILE ELBOW VALVES BLOCK
+UP-513.014-M-0022
+0
+M - MECÂNICA
+A1
+VALVES STAND FOR EAF
+UP-513.014-M-0023
+0
+M - MECÂNICA
+A2
+EAF ELECTRODES EMERGENCY SOLENOID VALVE BLOCK
+UP-513.014-M-0024
+0
+M - MECÂNICA
+A2
+VALVE BLOCK ON BOARD
+UP-513.014-M-0025
+0
+M - MECÂNICA
+A1
+VALVES BLOCK FOR EAF ROOF LIFTING
+UP-513.014-M-0026
+0
+M - MECÂNICA
+A1
+VALVES BLOCK FOR EAF TILTING
+UP-513.014-M-0027
+0
+M - MECÂNICA
+A2
+EAF ROOF ROTATION VALVES BLOCK
+UP-513.014-M-0028
+0
+M - MECÂNICA
+A2
+ASSEMBLY FOR EAF ELECTRODES VALVES BLOCK
+UP-513.014-M-0029
+0
+M - MECÂNICA
+A2
+VALVES BLOCK FOR ELETRODE EMERGENCY
+UP-513.014-M-0030
+0
+M - MECÂNICA
+A1
+HYDRAULIC DIAGRAM FOR EAF UNIT
+UP-513.014-M-0031
+0
+M - MECÂNICA
+A1
+HYDRAULIC DIAGRAM FOR EAF ACCUMULATORS
+UP-513.014-M-0032
+0
+M - MECÂNICA
+A1
+HYDRAULIC DIAGRAM FOR EAF VALVES STANDS/BLOCKS
+UP-513.014-M-0033
+0
+M - MECÂNICA
+A1
+HYDRAULIC DIAGRAM FOR EAF VALVES STANDS/BLOCKS
+UP-513.014-M-0034
+0
+M - MECÂNICA
+A1
+HYDRAULIC DIAGRAM FOR EAF VALVES STANDS/BLOCKS
+UP-513.014-M-0035
+0
+M - MECÂNICA
+A1
+HYDRAULIC DIAGRAM FOR EAF VALVES STANDS/BLOCKS
+ UP-513.014-A-0008
+0
+A - GERAL
+A0
+SAFETY LAYOUT - EAF
+ UP-513.014-A-0009
+0
+A - GERAL
+A0
+SAFETY LAYOUT - EAF
+ UP-513.014-A-0010
+0
+A - GERAL
+A0
+FTP - SAFETY LAYOUT 
+ UP-513.014-A-0011
+0
+A - GERAL
+A0
+FTP - SAFETY LAYOUT 
+UP-513.014-M-0036
+0
+M - MECÂNICA
+A0
+FTP PROCESS FLOW DIAGRAM 
+UP-513.014-M-0037
+0
+M - MECÂNICA
+A1
+FTP PRESURIZZES COOLING CIRCUIT - DISTRIBUTION P&ID+PFD
+UP-513.014-M-0038
+0
+M - MECÂNICA
+A1
+FTP PRESURIZZES COOLING CIRCUIT - DISTRIBUTION P&ID+PFD
+UP-513.014-M-0039
+0
+M - MECÂNICA
+A1
+COOLING CIRCUIT EAF - FTP SERIES - DISTRIBUTION P&ID+PFD
+UP-513.014-M-0040
+0
+M - MECÂNICA
+A1
+EAF LIME INJECTION SYSTEM "CA" AND "IA" - DISTRIBUTION P&ID+PFD 
+UP-513.014-I-0001
+0
+I - INSTRUMENTAÇÃO
+A1
+AUTOMATIC REGULATED VALVES TRAIN UNIT FOR EAF - SHELL BOTTOM STIRRING - P&ID
+UP-513.014-M-0041
+0
+M - MECÂNICA
+A1
+EAF MECHANICAL PARTS COOLING WATER "CW-CWR-EW" - DISTRIBUTION P&ID
+UP-513.014-M-0042
+0
+M - MECÂNICA
+A1
+EAF HEAT EXCHANGERS AREA "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+UP-513.014-M-0043
+0
+M - MECÂNICA
+A1L
+EAF ELECTRICAL PARTS AREA "CW-CWR" -  COOLING WATER DISTRIBUTION SYSTEM - P&ID
+UP-513.014-M-0044
+0
+M - MECÂNICA
+A1
+EAF COLUMNS, ARMS & CLAMPS "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+UP-513.014-M-0045
+0
+M - MECÂNICA
+A1
+EAF AREA "OX" OXYGEN - DISTRIBUTION P&ID
+UP-513.014-M-0046
+0
+M - MECÂNICA
+A1
+EAF AREA "OX" OXYGEN BLOCK AND BLEED - DISTRIBUTION P&ID
+UP-513.014-M-0047
+0
+M - MECÂNICA
+A1
+EAF AREA STIRRING & AUXILIARES "AR-NI" ARGON AND NITROGEN - DISTRIBUTION P&ID
+UP-513.014-M-0048
+0
+M - MECÂNICA
+A1
+EAF AREA "CA-IA" COMPRESSED AND INSTRUMENT AIR -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0049
+0
+M - MECÂNICA
+A1
+EAF AREA "CA-IA" COMPRESSED AND INSTRUMENT AIR -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0050
+0
+M - MECÂNICA
+A1
+EAF AREA "GN" NATURAL GAS - DISTRIBUTION P&ID
+UP-513.014-M-0051
+0
+M - MECÂNICA
+A1
+EAF AREA "GN" NATURAL GAS BLOCK AND BLEED - DISTRIBUTION P&ID
+UP-513.014-M-0052
+0
+M - MECÂNICA
+A1
+FTP PEAK SHAVER AIR MIST DIRECT COOLING LINES "KW-CA"  -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0053
+0
+M - MECÂNICA
+A1
+FTP MOVABLE DUCT "CW-CER" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0054
+0
+M - MECÂNICA
+A1
+FTP FIXED DUCT 1 "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0055
+0
+M - MECÂNICA
+A1
+FTP FIXED DUCT 2 "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0056
+0
+M - MECÂNICA
+A1
+FTP SETTLING CHAMBER  "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0057
+0
+M - MECÂNICA
+A1
+FTP DUCTS 4.1÷4 5&6.1÷6.5 OUT OF SETTLING CHAMBER "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0058
+0
+M - MECÂNICA
+A1
+FTP DUCTS 5.1÷ 5.5&7.1÷7.5 OUT OF SETTLING CHAMBER "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0059
+0
+M - MECÂNICA
+A1
+FTP DUCTS 8.1÷ 8.6 &10.1÷10.6 OUT OF SETTLING CHAMBER "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0060
+0
+M - MECÂNICA
+A1
+FTP DUCTS 9.1÷ 9.6 &11.1÷11.6 OUT OF SETTLING CHAMBER "QW-QWR" COOLING WATER -  DISTRIBUTION P&ID+PFD
+UP-513.014-M-0061
+0
+M - MECÂNICA
+A1
+FTP AREA "CA-IA" COMPRESSED & INSTRUMENT AIR - DISTRIBUTION SYSTEM P&ID+PFD
+UP-513.014-M-0062
+0
+M - MECÂNICA
+A1
+EAF ELECTRODES JOINTING STATION "CW" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+UP-513.014-M-0063
+0
+M - MECÂNICA
+A1
+NOTES AND SYMBOLS FOR P&ID & PFD
+UP-513.014-M-0064
+0
+M - MECÂNICA
+A1
+COOLING CIRCUITS EAF - FTP SERIE - PROCESS FLUID DIAGRAM - PFD
+UP-513.014-R-0001
+0
+R - REFRATÁRIO
+A1
+LOWER SHELL REFRACTORY
+UP-513.014-R-0002
+0
+R - REFRATÁRIO
+A1
+PINDA - SHELL REFRACTORY AND BATH LEVELS 
+UP-513.014-R-0003
+0
+R - REFRATÁRIO
+A1
+PINDA - EAF TILTING PLATAFORM  REFRACTORY
+UP-513.014-C-0001
+0
+C - CONSTRUÇÃO CIVIL
+A0L1
+EXISTING EAF FOUNDATION - PLAN VIEW FOR MODIFICATION AND SECTIONS
+UP-513.014-C-0002
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF FUNDATION BASIC DESIGN - PLAN VIEW AT LEVEL ±0.15
+UP-513.014-C-0003
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF FUNDATION BASIC DESIGN - SECTIONS A-A
+UP-513.014-C-0004
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF FUNDATION BASIC DESIGN - SECTIONS B-B, C-C AND DETAILS
+UP-513.014-C-0005
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF FUNDATION BASIC DESIGN - LOADS, NOTES AND DETAILS
+UP-513.014-C-0006
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF FUNDATION BASIC DESIGN - PLAN VIEW AT LEVEL ±0.15 AND ±3.70
+UP-513.014-C-0007
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF CABIN BASIC DESIGN - PLAN VIEW AT LEVEL ±7.90 AND ±10.65
+UP-513.014-C-0008
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF CABIN BASIC DESIGN - PLAN VIEW AT LEVEL ±13.625 AND ±20.70
+UP-513.014-C-0009
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF CABIN BASIC DESIGN - SECTIONS A-A AND B-B
+UP-513.014-C-0010
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF CABIN BASIC DESIGN - DETAILS, NOTES AND LOADS
+UP-513.014-C-0011
+0
+C - CONSTRUÇÃO CIVIL
+A0
+TAPPING CONTROL PULPIT BASIC DESIGN - PLAN, SECTIONS, LOADS & DETAILS
+UP-513.014-C-0012
+0
+C - CONSTRUÇÃO CIVIL
+A0
+OXYGEN & NATURAL GAS VALVE TRAIN ROOM BASIC DESIGN - PLAN, SECTIONS, LOADS & DETAILS
+UP-513.014-C-0013
+0
+C - CONSTRUÇÃO CIVIL
+A0L1
+EXISTING EAF PLATFORM - PLAN VIEW FOR MODIFICATION EL ±7.66 AND SECTIONS
+UP-513.014-C-0014
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF PLATFORM BASIC DESIGN - PLAN VIEW AT LEVEL  ±0.15
+UP-513.014-C-0015
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF PLATFORM BASIC DESIGN - PLAN VIEW AT LEVEL  ±7.66
+UP-513.014-C-0016
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF PLATFORM BASIC DESIGN - SECTIONS A-A & B-B
+UP-513.014-C-0017
+0
+C - CONSTRUÇÃO CIVIL
+A0
+EAF PLATFORM BASIC DESIGN - SECTIONS AND DETAILS
+UP-513.014-C-0018
+0
+C - CONSTRUÇÃO CIVIL
+A0L1
+EAF PLATFORM BASIC DESIGN - DETAILS AND LOADS
+UP-513.014-D-0001
+0
+D - ESTRUTURAS METÁLICAS
+A0
+CANOPY HOOD (BASIC DESIGN)
+UP-513.014-D-0002
+0
+D - ESTRUTURAS METÁLICAS
+A0
+CANOPY HOOD (BASIC DESIGN)
+UP-513.014-D-0003
+0
+D - ESTRUTURAS METÁLICAS
+A1
+CANOPY HOOD (BASIC DESIGN)
+UP-513.014-C-0019
+0
+C - CONSTRUÇÃO CIVIL
+A0
+FTP LAYOUT WITH PEAK SHAVER LOADS ON BUILDING
+UP-513.014-C-0020
+0
+C - CONSTRUÇÃO CIVIL
+A0
+FTP LAYOUT WITH PEAK SHAVER LOADS ON BUILDING
+UP-513.014-C-0021
+0
+C - CONSTRUÇÃO CIVIL
+A1
+FTP SETTLING CHAMBER CIVIL WORKS & LOADS
+UP-513.014-C-0022
+0
+C - CONSTRUÇÃO CIVIL
+A1
+FTP SETTLING CHAMBER CIVIL WORKS & LOADS
+UP-513.014-T-0001
+0
+T - TUBULAÇÃO
+A1L
+P.U GD11 - ELECTRIC ARC FURNACE (EAF) - HYDRAULIC FLOW SHEET
+UP-513.014-T-0002
+0
+T - TUBULAÇÃO
+A1L
+P.U GD11 - ELECTRIC ARC FURNACE (EAF) - HYDRAULIC FLOW SHEET
+UP-513.014-T-0003
+0
+T - TUBULAÇÃO
+A2
+P.U GD11 - ELECTRIC ARC FURNACE (EAF) - GREASE LUBRICATION FLOW SHEET
+UP-513.014-T-0004
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - PIPING KEY PLAN 
+UP-513.014-T-0005
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 10 PLAN FROM EL +150 TO EL +2100
+UP-513.014-T-0006
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 10 PLAN FROM EL +2100 TO EL +3150
+UP-513.014-T-0007
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 10 PLAN FROM EL +3150 TO EL +5950
+UP-513.014-T-0008
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 10 PLAN FROM EL +5950 TO EL +7350
+UP-513.014-T-0009
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 10 PLAN FROM EL +7350 AND OVER
+UP-513.014-T-0010
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 10 SECTION A-A
+UP-513.014-T-0011
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 11 PLAN FROM EL +150 TO EL +2100
+UP-513.014-T-0012
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 11 PLAN FROM EL +7350 AND OVER
+UP-513.014-T-0013
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 12  PLAN FROM EL +400 TO EL +3850
+UP-513.014-T-0014
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 12  PLAN FROM EL +3850 TO EL +6460
+UP-513.014-T-0016
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 12  PLAN FROM EL +3850 TO EL +6460
+UP-513.014-T-0017
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 13  PLAN FROM EL +150 TO EL +6450
+UP-513.014-T-0018
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 13  PLAN FROM EL +6450 TO EL +12500
+UP-513.014-T-0019
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 13  PLAN FROM EL +12500 TO EL +17500
+UP-513.014-T-0020
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 13 SECTIONS A-A, B-B AND C-C
+UP-513.014-T-0021
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 14  PLAN FROM EL +150  TO EL +6450
+UP-513.014-T-0022
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 14  PLAN FROM EL +6450  TO EL +15000
+UP-513.014-T-0023
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 15  PLAN FROM EL +150  TO EL +6450
+UP-513.014-T-0024
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 15  PLAN FROM EL +6450 AND OVER
+UP-513.014-T-0025
+0
+T - TUBULAÇÃO
+A0
+P.U GD11, GS51 & GA01-EAF & FTP NEW PIPPING SYSTEM FEASIBILITY STUDY - AREA 16  PLAN FROM EL +2000 TO EL +27000
+ UP-513.014-A-0012
+0
+A - GERAL
+ 
+MAQUETE 3D - FORNO EBT 82 - 95 t
+UP-513.014-X-0001
+0
+X - AUTOMAÇÃO
+A0
+ELECTRIC ARC FURNACE AUTOMATION BLOCK DIAGRAM - 3Q AUTOMATION
+UP-513.014-E-0009
+0
+E - ELÉTRICA E ELETRÔNICA
+A1
+ELECTRIC ARC FURNACE - SINGLE LINE DIAGRAM 
+UP-513.014-A-0013
+0
+A - GERAL
+A0
+FTP LAYOUT WITH PEAK SHAVER
+UP-513.014-A-0014
+0
+A - GERAL
+A0
+FTP LAYOUT WITH PEAK SHAVER
+UP-513.014-M-0065
+0
+M - MECÂNICA
+A1
+WTP - FTP COOLING CIRCUIT - 100°C - PROCESS FLOW DIADRAM - PFD
+UP-513-LE-E-0004
+0
+E - ELÉTRICA E ELETRÔNICA
+A4
+EAF - Motor and Component List
+UP-513-LE-E-0005
+0
+E - ELÉTRICA E ELETRÔNICA
+A4
+FTP REVAMPING - Motor and Component List
+UP-513-FD-M-0004
+0
+M - MECÂNICA
+A4
+EAF & FTP  GASES BALANCE TABLE 
+UP-513-FD-M-0005
+0
+M - MECÂNICA
+A4
+EAF & FTP COOLING WATER BALANCE TABLE 
+UP-513-LM-M-0001
+0
+M - MECÂNICA
+A4
+PIPING SYSTEM MATERIAL
+UP-513-FD-E-0013
+0
+E - ELÉTRICA E ELETRÔNICA
+A4
+ELECTRICAL DEVICES
+UP-513-FD-E-0014
+0
+E - ELÉTRICA E ELETRÔNICA
+A4
+CABLE WAYS
+UP-513-FD-E-0015
+0
+E - ELÉTRICA E ELETRÔNICA
+A4
+CABLE PULLING
+UP-513.014-M-0066
+0
+M - MECÂNICA
+A1
+EAF POWER CABLES CIRCUIT "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+UP-513.014-M-0067
+0
+M - MECÂNICA
+A1
+EAF SECONDARY CIRCUIT  "CW-CWR" - COOLING WATER DISTRIBUTION SYSTEM - P&ID
+UP-513.012-T-4007
+0
+M- MECÂNICA
+A0
+ESTUDO DE NOVA ROTA DE ALIMENTAÇÃO DE ÁGUA INDUSTRIAL
+UP-513.012-M-7026 - SUB 09
+0
+E - ELÉTRICA E ELETRÔNICA
+A1
+LAYOUT PROPOSTO da SE09 e SE1914
+
+ PIN-PR-245-005
+0
+M - MECÂNICA
+A4
+
+ Liberação de PT para Içamentos com Plano de Rigging
+UP-290-EE-027 
+0
+M - MECÂNICA
+A4
+PADRONIZAÇÃO DE CORES DAS TUBULAÇÕES-.
+UP-290-EE-029
+0
+M - MECÂNICA
+A4
+PADRONIZAÇÃO DE CORES.
+UP-290-ES-001
+0
+M - MECÂNICA
+A4
+PADRONIZAÇÃO DE CORES
+UP-290-EE-01
+0
+M - MECÂNICA
+A4
+PINTURA DE SUPERFÍCIES METÁLICAS FERROSAS.
+UP-513.012-A-0004_RG
+
+
+0
+M - MECÂNICA
+
+MAQUETE 3D DO REVAMP DA ACIARIA
+REDZONE
+
+
+
+
+UP-513.002-E-4062-A
+0
+G - GERAL
+A1
+CORTES E DETALHES
+UP-513.002-E-4064-0
+0
+G - GERAL
+A1
+ARRANJOS DOS EQUIPAMENTOS - CORTES E DETALHES
+UP-513.002-M-4358-0
+0
+G - GERAL
+A1
+LAYOUT GERAL
+UP-513.002-M-4359-0
+0
+G - GERAL
+A1
+PLANTAS, CORTES E DETALHES
+UP-513.002-M-4364-0
+0
+G - GERAL
+A1
+PORTÃO, PAINEL E MONTANTES - CORTES E DETALHES
+UP-513.002-M-4365-A
+0
+G - GERAL
+A1
+ACESSO DOS MAQUINÁRIOS NIVEL ZERO - PLANTA, ELEVÇÃO E CORTES
+UP-513.002-M-4369-A
+0
+G - GERAL
+A1
+ACESSO DOS MAQUINÁRIOS NÍVEL ZERO  - PLANTA, CORTES E VISTA
+UP-513.002-X-0001-B
+0
+G - GERAL
+A1
+PLANTA BAIXA
+UP-513.002-X-0002-B
+0
+G - GERAL
+A1
+PLANTA CORTE
+UP-513-ES-D-0001-0
+0
+G - GERAL
+A4
+ESPECIFICAÇÃO TÉCNICA
+UP-513-ES-E-0001-0
+0
+G - GERAL
+A4
+CFTV - ESPECIFICAÇÃO TÉCNICA
+UP-513-ES-X-0001-B
+B
+G - GERAL
+A4
+ESPECIFICAÇÃO TÉCNICA
+UP-513-FD-E-0001-0
+0
+G - GERAL
+A4
+QUADRO DE DISTRIBUIÇÃO - FOLHA DE DADOS
+UP-513-FD-E-0002-0
+0
+G - GERAL
+A4
+NO-BREAK - FOLHA DE DADOS
+UP-513-FD-E-0005-A
+A
+G - GERAL
+A4
+CANCELA - FOLHA DE DADOS
+UP-513-FD-E-0006-A
+A
+G - GERAL
+A4
+PATCHPANEL- FOLHA DE DADOS
+UP-513-FD-E-0007-A
+A
+G - GERAL
+A4
+NVD - FOLHA DE DADOS
+UP-513-FD-E-0010-A
+A
+G - GERAL
+A4
+CÂMERA IP-FOLHA DE DADOS
+UP-513-FD-X-0001-A
+A
+G - GERAL
+A4
+FOLHA DE DADOS
+UP-513-FD-X-0002-B
+B
+G - GERAL
+A4
+TRAVA MAGNÉTICA-FOLHA DE DADOS
+UP-513-FD-X-0004-B
+B
+G - GERAL
+A4
+PAINEL DE PLC-FOLHA DE DADOS
+UP-513-FD-X-0005-A
+A
+G - GERAL
+A4
+BOTOEIRA MANUAL DE ACESSO-FOLHA DE DADOS
+UP-513-LC-E-0001-A
+A
+G - GERAL
+A4
+ELÉTRICA - LISTA DE CABOS
+UP-513-LC-E-0002-A
+A
+G - GERAL
+A4
+CFTV - LISTA DE CABOS
+UP-513-LC-X-0001-B
+B
+G - GERAL
+A4
+CONTROLE DE ACESSO - LISTA DE CABOS
+UP-513-LD-A-0017-F
+F
+G - GERAL
+A4
+LISTA DE DOCUMENTOS
+UP-513-LE-E-0001-0
+0
+G - GERAL
+A4
+LISTA DE EQUIPAMENTOS
+UP-513-LE-E-0002-A
+A
+G - GERAL
+A4
+CFTV-LISTA DE EQUIPAMENTOS
+UP-513-LE-M-0001-0
+0
+G - GERAL
+A4
+LISTA DE EQUIPAMENTOS MECÂNICO
+UP-513-LE-X-0001-A
+A
+G - GERAL
+A4
+LISTA DE EQUIPAMENTOS
+UP-513-LM-A-0001-A
+A
+G - GERAL
+A4
+LISTA DE MATERIAL - GERAL
+UP-513-LM-D-0001-0
+0
+G - GERAL
+A4
+LISTA DE MATERIAL
+UP-513-MC-C-0001-0
+0
+G - GERAL
+A4
+MEMÓRIA DE CÁLCULO
+UP-513-MC-E-0001-0
+0
+G - GERAL
+A4
+DEMANDA, CURTO-CIRCUITO E SELETIVIDADE - MEMÓRIA DE CÁLCULO
+UP-513-MC-E-0002-A
+A
+G - GERAL
+A4
+MEMORIA DE CÁLCULO
+UP-513-MC-E-0003-0
+0
+G - GERAL
+A4
+DIMENSIONAMENTO DE CONDUTORES ELÉTRICOS - MEMÓRIA DE CÁLCULO
+UP-513-MC-M-0001-0
+0
+G - GERAL
+A4
+MEMÓRIA DE CÁLCULO
+UP-513-MD-A-0001-0
+0
+G - GERAL
+A4
+MEMORIAL DESCRITIVO
+UP-513-MD-E-0001-0
+0
+G - GERAL
+A4
+MEMORIAL DESCRITIVO
+UP-513-MD-E-0002-A
+A
+G - GERAL
+A4
+MEMORIAL DESCRITIVO
+UP-513-MD-M-0001-0
+0
+G - GERAL
+A4
+MEMORIAL DESCRITIVO
+UP-513-MD-X-0001-B
+B
+G - GERAL
+A4
+MEMORIAL DESCRITIVO
+UP-513-OD-A-0001-0
+0
+G - GERAL
+A4
+CRITÉRIO DE PROJETO
+UP-513-OD-E-0001-0
+0
+G - GERAL
+A4
+CRITÉRIO DE PROJETO
+UP-513-OD-E-0002-0
+0
+G - GERAL
+A1
+DIAGRAMA UNIFILAR
+UP-513-OD-E-0003-0
+0
+G - GERAL
+A3
+QUADRO DE DISTRIBUIÇÃO - DIAGRAMA ESQUEMÁTICO
+UP-513-OD-E-0004-B
+B
+G - GERAL
+A4
+CRITÉRIO DE PROJETO
+UP-513-OD-E-0006-A
+A
+G - GERAL
+A1
+DIAGRAMA DE CONFIGURAÇÃO
+UP-513-OD-X-0001-A
+A
+G - GERAL
+A4
+CRITÉRIO DE PROJETO
+UP-513-OD-X-0002-B
+B
+G - GERAL
+A4
+RELAÇÃO DE ENTRADAS E SAIDAS
+UP-513-OD-X-0003-B
+B
+G - GERAL
+A4
+LISTA DE INSTRUMENTOS
+UP-513-OD-X-0004-A
+A
+G - GERAL
+A1
+DIAGRAMA DE CONFIGURAÇÃO
+UP-513-OD-X-0005-A
+A
+G - GERAL
+A3
+DIAGRAMA ESQUEMÁTICO
+UP-513-RT-A-0001-0
+0
+G - GERAL
+A4
+RELATÓRIO VISITA TÉCNICA
+UP-513-RT-A-0002-0
+0
+G - GERAL
+A4
+RELATÓRIO DE VISITA TÉCNICA
+
+
+
+
+
+Desenhos Civis similares do forno EBT 95t
+Nome
+Classe
+Nível 
+Formato
+Título
+UP-513.014-C-0001
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+MODIFICAÇÕES E SEÇÕES - FUNDAÇÃO EXISTENTE FORNO EAF - EBT 82 - 95 t
+UP-513.014-C-0002
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+FUNDAÇÃO - NÍVEL 0,15 - EBT 82 - 95 t
+UP-513.014-C-0003
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+FUNDAÇÃO - CORTE "A-A" - EBT 82 - 95 t
+UP-513.014-C-0004
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+FUNDAÇÃO - CORTE "B-B", "C-C" - EBT 82 - 95 t
+UP-513.014-C-0005
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+CARGAS, NOTAS E DETALHES - FUNDAÇÃO - EBT 82 - 95 t
+UP-513.014-C-0006
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PLANTA PRÉDIO DO FORNO EAF NÍVEL 0.15 E 3.70 - EBT 82 - 95 t
+UP-513.014-C-0007
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PLANTA PRÉDIO DO FORNO EAF NÍVEL 7.90 E 10.65 - EBT 82 - 95 t
+UP-513.014-C-0008
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PLANTA PRÉDIO DO FORNO EAF 13.62 E 20.70 - EBT 82 - 95 t
+UP-513.014-C-0009
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PRÉDIO DO FORNO EAF - CORTE "A-A" E "B-B" - EBT 82 - 95 t
+UP-513.014-C-0010
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PRÉDIO DO FORNO EAF - CARGAS, NOTAS E DETALHES - EBT 82 - 95 t
+UP-513.014-C-0011
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+CABINE DE OPERAÇÃO VAZAMENTO - PLANTA, CORTES E DETALHES - EBT 82 - 95 t
+UP-513.014-C-0012
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+SALA DE DE VÁLVULAS - PLANTA, CORTES, CARGAS E DETALHES - EBT 82 - 95 t
+UP-513.014-C-0013
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PLANTA E CORTE - MODIFICAÇÕES NO MEZANINO - EBT 82 - 95 t
+UP-513.014-C-0014
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PLANTA NÍVEL 0.15 - FUNDAÇÃO - EBT 82 - 95 t
+UP-513.014-C-0015
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+PLANTA NÍVEL 7.66 - FUNDAÇÃO - EBT 82 - 95 t
+UP-513.014-C-0016
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+CORTE "A-A" E "B-B" - FUNDAÇÃO MEZANINO - EBT 82 - 95 t
+UP-513.014-C-0017
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+SEÇÕES E DETALHES - FUNDAÇÃO MEZANINO - EBT 82 - 95 t
+UP-513.014-C-0018
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+CARGAS E DETALHES - FUNDAÇÃO MEZANINO - EBT 82 - 95 t
+UP-513.014-C-0019
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+SISTEMA DE DESPOEIRAMENTO - CARGAS NO PRÉDIO -  EBT 82 - 95 t (FOLHA  01)
+UP-513.014-C-0020
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A0
+SISTEMA DE DESPOEIRAMENTO - CARGAS NO PRÉDIO -  EBT 82 - 95 t (FOLHA  02)
+UP-513.014-C-0021
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+CÂMARA DE COMBUSTÃO - CIVIL E CARGA - EBT 82 - 95 t (FOLHA 01)
+UP-513.014-C-0022
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+CÂMARA DE COMBUSTÃO - CIVIL E CARGA - EBT 82 - 95 t (FOLHA 02)
+P00615-CB-CP-0000-0001-r01
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+CRITÉRIOS DE PROJETO
+P00615-CB-DE-0000-0001-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+FUNDAÇÃO - REFORMA E DEMOLIÇÕES
+P00615-CB-DE-0000-0002-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+FUNDAÇÃO - REFORMA E RECONTRUÇÃO
+P00615-CB-DE-0000-0003-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+FUNDAÇÃO - REFORMA E RECONTRUÇÃO VISTAS
+P00615-CB-DE-0000-0004-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+FUNDAÇÃO - CÂMARA DE COMBUSTÃO E QUENCHING TOWER
+P00615-CB-MC-0000-0001-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+ESTRUTURAS DE CONCRETO - MEMÓRIA DE CÁLCULOS
+P00615-CB-MD-0000-0001-r01
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+ESTRUTURAS DE CONCRETO E METÁLICAS - MEMÓRIAL DESCRITIVO
+P00615-CB-PQ-0000-0001 - R01
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+PALNILHA DE QUANTITATIVOS
+P00615-CC-CP-0000-0001-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+ESTRUTURAS METÁLICAS - CRITÉRIOS DE PROJETO
+P00615-CC-DE-0000-0001r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+ESTRUTURAS METÁLICAS - CABLE RACK
+P00615-CC-ET-0000-0001-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+ESTRUTURAS METÁLICAS -ESPECIFICAÇÃO TÉCNICA
+P00615-CC-ET-0000-0002-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+PINTURA -ESPECIFICAÇÃO TÉCNICA
+P00615-CC-ET-0000-0003-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+ESTRUTURAS METÁLICAS - MONTAGEM - ESPECIFICAÇÃO TÉCNICA
+P00615-CC-MC-0000-0001-r00
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+ESTRUTURAS METÁLICAS - MEMÓRIA DE CÁLCULO
+P00615-CC-PQ-0000-0001 - R00-Planilha
+C - CONSTRUÇÃO CIVIL
+BÁSICO
+A1
+PLANILHA DE QUANTITATIVO - ESTRUTURA METÁLICA
+
+Desenhos Civis similares do FTP - Despoeiramento
+Nome
+Classe
+Nível 
+Formato
+Título
+UP-512.000-C-1306
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Planta Chave e notas gerais
+UP-512.000-C-1307
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Fundações e formas para Filtros
+UP-512.000-C-1308
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Armação para Filtros
+UP-512.000-C-1309
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Fundações e formas Suporte para dutos
+UP-512.000-C-1310
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Fundação - Armação Suporte para dutos
+UP-512.000-C-1311
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Formas e Armação para Base da Chaminé
+UP-512.000-C-1312
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Fundações - Formas e Armação para Ventiladores
+UP-512.000-C-1313
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Formas - Sala Elétrica
+UP-512.000-C-1314
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Fundação - Armação- Sala Elétrica
+UP-512.000-C-1315
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Cobertura e pavimentação - Armação Sala Elétrica
+UP-512.000-C-1316
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Fundações - Formas e Armação para Drop out box
+UP-512.000-C-1317
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Formas e Armação para SE-09
+UP-512.000-C-1318
+C - CONSTRUÇÃO CIVIL
+Detalhado
+A1
+Reforço para abertura e suporte
+UP-512.002-M-4052
+G - Geral
+BÁSICO
+A1
+Arranjo despoeiramento
+Desenhos Civis similares do MHS - Sistema de adição de cal e ligas
+Nome
+Classe
+Nível 
+Formato
+Título
+517.10-M-001
+C - CONSTRUÇÃO CIVIL
+Detalhado
+
+Layout Planta (similaridade Cosigua)
+517.10-M-002
+C - CONSTRUÇÃO CIVIL
+Detalhado
+
+Seção (similaridade Cosigua)
+517.10-M-003
+C - CONSTRUÇÃO CIVIL
+Detalhado
+
+Coifa de captação (similaridade Cosigua)
+517.10-M-012
+C - CONSTRUÇÃO CIVIL
+Detalhado
+
+Fundações Moega e rampa (similaridade Cosigua)
+UP-513.012-M-0008
+Mecânica
+Conceitual
+A1
+SISTEMA DE ADIÇÃO DE LIGAS - PLANTA GERAL (SEI)
+UP-513.012-M-0009
+Mecânica
+Conceitual
+A1
+SISTEMA DE ADIÇÃO DE LIGAS - CORTES A-A E D-D (SEI)
+UP-513.012-M-0023
+Mecânica
+Conceitual
+A1
+SISTEMA DE ADIÇÃO DE LIGAS - CORTES B-B C-C e E-E (SEI)
+UP-513.012-M-0024
+Mecânica
+Conceitual
+A1
+SISTEMA DE ADIÇÃO DE LIGAS - CORTES F-F, G-G, H-H (SEI)
+Pesos de referência dos principais Equipamentos (similaridade forno EBT95t):
+Descrição
+Peso Total (kg)
+Scrap Bucket Assembly
+100.401
+Bucket Car with Electric Drive
+46.990
+Installation bucket car
+1.434
+Furnace Tilting Platform
+95.672
+Upper Shell
+25.349
+Lower Shell
+37.871
+Watercooled Panels, Standard Type
+32.343
+Eccentric Bottom Tapping
+2.304
+EBT Service Walkway
+3.871
+Electrode Alignment Platform
+1.862
+Nozzle Change Service Walkway
+2.980
+Roof Lifting Fork
+8.096
+EAF Water Cooled Roof
+35.048
+EAF Service Steelworks
+7.672
+EAF Roof & Electrode Lifting & Rotatin Unit
+79.797
+Electrode Arms for EAF, Conductive Type
+30.100
+Furnace Secondary Circuit 
+4.294
+Water Cooled Cables
+9.845
+EAF Process Chemical Energy Package
+5.590
+Module Piping
+2.815
+Carbon Piping
+3.884
+Carbon Dispenser for EAF
+6.418
+Cooling block for EBT Refractory
+1.210
+Bulged panel - Bucket charge -
+1.661
+Bin complementary equipment (Auxiliares de conexión tolva de carbon)
+1.843
+Instead of Cooling Block EBT 
+902
+Storage unit for injection material (estruc. auxiliares para tolva de carbón)
+22.120
+General Bin Components (Para tolva de carbon)
+168
+Electrode Jointing Station for Electrodes EAF
+5.295
+Automatic Sampling Device, EAF
+2.511
+Slag Door Cleaning Manipulator
+9.810
+HYDRAULIC UNIT EAF
+6.780
+ACCUMULATORS EAF
+15.510
+Set of Valve Stands EAF
+3.765
+Set of Valve Blocks for EAF
+4.202
+Set of Valve Blocks on Board E (kid para carga de acumuladores) 
+13
+Centralised Grease Lubrication
+120
+PRIMARY WATER COOLED DUCT 
+72.872
+EAF PRIMARY  WATER COOLED DUCT
+18.870
+SETTLING CHAMBER GROUP
+30.189
+MOBILE DUCT ON BOARD SYSTEM
+1.840
+QUENCHING SETTLING CHAMBER 
+26.767
+Skids - Circuitos de Aguas de refrigeração EAF
+11.877
+TRilhos Motank
+1.349
+PRIMARY SIMPLE WALL DUCT 
+22.260
+EAF PRIMARY S.W. DUCT SUPPORTING STRUCT.
+2.210
+QUENCHING TOWER
+30.519
+QUENCHING TOWER STRUCT.
+51.250
+
+
+TOTAL
+890.549
+
+Interconnecting piping EAF (t)
+ 
+80,51
+         Interconnecting Grasa_EAF
+EAF-01
+6,32
+         Interconnecting Hidráulico_HD, HT, HD _EAF
+EAF-02
+16,39
+         Interconnecting Agua Resfriamento_CW y CWR_EAF
+EAF-03
+43,6
+         Interconnecting Agua Resfriamento_QW y QWR_EAF
+EAF-04
+4,18
+         Interconnecting Aire_AC, AI, Drenaje y Venteo_EAF
+EAF-05
+1,56
+         Interconnecting Gas Natural_EAF
+EAF-06
+2,69
+         Interconnecting Oxigeno_EAF
+EAF-07
+5,38
+         Interconnecting Argón y Nitrógeno_EAF
+EAF-08
+0,39
+Interconnecting piping FTP - Fumos Treatment Plant (t)
+ 
+27,52
+         Interconnecting Agua CW, CWR, KW, LST, LCS_FTP
+FTP-01
+12,24
+         Interconnecting Agua QW y QWR_FTP
+FTP-02
+13,87
+         Sistema De Aire_AC y AI_FTP
+FTP-03
+1,41
+
+Pesos de referência dos principais Equipamentos do MHS (Sistema de Cal e Ligas):
+Peso Total: 891 toneladas
+Potência Total: 224 kW
+Pesos de referência dos principais Equipamentos do FTP (Despoeiramento):
+Qty
+Unit
+Equipment
+Weight (kg)
+ 
+ 
+EBT - DEDUSTING SYSTEM
+
+ 
+ 
+Secondary dedusting of EBT
+
+ 
+ 
+ 
+
+ 
+ 
+Watercooled Hotgasline
+68700
+ 
+ 
+ 
+
+1
+Set
+Furnace elbow, tube tube construction with cooling water headers
+
+1
+ 
+Sliding sleeve with drive, tube tube construction with headers and hose connections
+
+1
+Set
+Pneumatic drive + sol. valves
+
+1
+ 
+Compr. air piping for sliding sleeve
+
+1
+Set
+Fixed elbow, tube tube construction with cooling water headers
+
+1
+Set
+Hot gas line sections with cooling water headers, tube tube construction
+
+1
+ 
+Drop out cone (uncooled)
+
+1
+Set
+Refractory material
+
+1
+ 
+Gate valve (pneum.drive incl. sol. valves)
+
+1
+ 
+Compr. air piping for gate valve
+
+1
+Set
+Service unit for compr. air
+
+1
+Set
+Supporting structure and/or hangers
+
+1
+ 
+Drop out box
+
+1
+Set
+Drop out box (watercooled) round with cooling water headers, tube tube construction
+
+1
+ 
+Expansion joint (drop o.b.-water c.HGL)
+
+1
+ 
+Drop out cone (uncooled)
+
+1
+Set
+Refractory material for cone
+
+1
+ 
+Gate valve (pneum. drive incl. sol. valves)
+
+1
+Set
+Service unit for compr. air
+
+1
+ 
+Compr. air piping for gate valve
+
+1
+ 
+Dust container
+
+1
+Set
+Supporting structure (drop out box)
+
+1
+Set
+Platforms, stairs, ladders Cooling water system
+
+1
+ 
+Cooling water system
+
+1
+Set
+Cooling water distribution
+
+1
+Set
+Cooling water supply system
+
+ 
+ 
+ 
+
+ 
+ 
+UNCOOLED HGL
+36700
+ 
+ 
+ 
+
+1
+Set
+Uncooled hot gas line
+
+1+1
+Set
+DEC-damper (circular damper) with electric drive unit
+
+1+1
+Set
+Furnace pressure measurement + nozzle
+
+1
+Set
+Compr. air piping for nozzle cleaning
+
+1
+Set
+Service unit f. compr. air
+
+1
+ 
+Expansion joints
+
+1
+Set
+Supporting structure
+
+1
+Set
+Platforms, stairs, ladders
+
+1
+ 
+Explosion flap with counter-weight
+
+ 
+ 
+ 
+
+ 
+ 
+Water spray cooling
+
+1
+Set
+Injecting nozzles with extension arms
+
+1
+Set
+Valve stand
+
+1
+ 
+High pressure pump
+
+ 
+ 
+ 
+
+ 
+ 
+Canopy EAF 81
+299000
+1
+ 
+Canopy hood (integrated in roof structure made of trapecoidal sheet material)
+
+1
+ 
+Canopy hood (outside of roof structure made of plate material 6-8 mm)
+
+ 
+ 
+Canopy EAF 82
+
+1
+ 
+Canopy hood (integrated in roof structure made of trapecoidal sheet material)
+
+1
+ 
+Canopy hood (outside of roof structure made of plate material 6-8 mm)
+
+2
+ 
+Conopy damper
+
+1
+Set
+Canopy duct
+
+1
+ 
+Emergency air damper with pneum. drive 
+
+1
+Set
+Expansion joints
+
+1
+Set
+Supporting structure
+
+1
+Set
+Platforms, stairs, ladders
+
+1
+Set
+Reinforcement of meltshop roof structure
+
+ 
+ 
+ 
+
+ 
+ 
+Filter plant
+238500
+1
+ 
+Control unit
+
+10
+ 
+Filterheadplates compl. with jet cleaning system and clean gas dampers + pneum. drive incl. parts for start-up
+
+3000
+ 
+Filter bag
+
+3000
+ 
+Filter bag cage
+
+1
+Set
+Filter housing with raw / clean gas duct, dust hoppers, raw gas damp.
+
+1
+Set
+Expansion joints (inlet / outlet)
+
+10
+ 
+Gate valves dust hoppers
+
+1
+Set
+Penthouse (filter roofing)
+
+2
+ 
+Lifting gear (manual)
+
+1
+Set
+Fluid. system dust hoppers
+
+1
+Set
+Supporting structure (for filter + penthouse)
+
+1
+Set
+Platforms, stairs, ladders
+
+ 
+ 
+ 
+
+ 
+ 
+Compressed air supply system
+5400
+1
+Set
+Air compressor
+
+1
+ 
+Compressed air buffer vessel with water separator
+
+1
+Set
+Air dryer
+
+1
+Set
+Filter system
+
+1
+Set
+Armatures
+
+1
+Set
+Internal piping
+
+ 
+ 
+ 
+
+ 
+ 
+DUST HANDLING EQUIPMENT
+17100
+ 
+ 
+Discharge filter plant
+
+2
+ 
+Trough conveyor with drive
+
+2
+ 
+Rotary valve with drive
+
+2
+Set
+Expansion joint
+
+ 
+ 
+Dust collection system
+
+1
+ 
+Trough conveyor with drive
+
+1
+Set
+Expansion joint
+
+1
+Set
+Discharge chute
+
+1
+Set
+Supporting structure
+
+ 
+ 
+ 
+
+ 
+ 
+CLEAN GAS SYSTEM
+150000
+ 
+ 
+Clean gas ducts
+
+1
+Set
+Filter to ID-fan 
+
+1
+Set
+ID-fan to stack
+
+1
+Set
+Supporting structure
+
+1
+Set
+Platforms, stairs, ladders
+
+ 
+ 
+ 
+
+ 
+ 
+ID-fan station
+
+2
+ 
+Fan housing
+
+2
+ 
+Impeller
+
+2
+ 
+Base frame
+
+2
+ 
+Elast. coupling
+
+2
+ 
+E-motor
+
+2
+Set
+Control dampers with drive
+
+2
+Set
+Isol. gates f. mainten. (man.)
+
+2
+Set
+Expansion joints (inlet+outlet)
+
+ 
+ 
+ 
+
+ 
+ 
+Noise attenuation
+
+1
+Set
+Noise insulation
+
+ 
+ 
+ 
+
+ 
+ 
+Clean gas stack
+
+1
+ 
+Stack shell
+
+1
+ 
+Base ring structure
+
+1
+Set
+Platforms, stairs, ladders
+
+
+
+
+
+ 
+ 
+Total
+815400
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ELECTRICAL, CONTROL and AUTOMATION SYSTEM
+
+ 
+ 
+High voltage system 4, 16 kV
+
+1
+Set
+High voltage switch gear
+
+1
+Set
+High voltage motors
+
+1
+ 
+Transformer (23kV - 4, 16kV)
+
+ 
+ 
+Low voltage system
+
+1
+Set
+Low voltage switch gear
+
+1
+Set
+Low voltage motors
+
+1
+Set
+Local Control boxes
+
+1
+Set
+UPS-system
+
+ 
+ 
+Instrumentation
+
+1
+Set
+Field instrument. local
+
+1
+Set
+Field instr. connected to PLC
+
+ 
+ 
+Basic Automation
+
+1
+Set
+PLC - system (Process station) power supply data highway interface central processing unit
+
+1
+Set
+Operator station colour CRT and keyboard
+
+1
+ 
+Printer
+
+1
+Set
+Application software
+
+ 
+ 
+Cabling (from TOP)
+
+1
+Set
+High voltage cables (23kV and 4, 16kV)
+
+1
+Set
+Standard cables
+
+1
+Set
+Special cables
+
+ 
+ 
+Erection material
+
+1
+Set
+Installation material
+
+1
+Set
+Lighting a. plugsocket system
+
+1
+Set
+Lightning system
+
+1
+Set
+Grounding system
+
+1
+Set
+Telefone a. commun. system
+
+
+12 CONSIDERAÇÕES GERAIS
+12.1 CONDIÇÕES DO PROJETO
+A PROPONENTE deverá realizar visita técnica para reconhecimento do local da obra e certificar-se in-loco de todas as condições de trabalho, assim como fatores diretos e indiretos que possam afetar a execução dos serviços. Certificando, assim, de todas as interferências e obstáculos para a execução da obra, bem como a movimentação interna de veículos, equipamentos e pessoas considerando os ramais ferroviários existentes e transportes internos de cargas pesadas inerentes ao processo siderúrgico da Unidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12.2 GARANTIA
+A CONTRATADA deverá assegurar a qualidade do fornecimento, assumindo a responsabilidade técnica e civil de conformidade com o disposto no Código Civil Brasileiro de 2002, artigo 620, dando garantias com relação a materiais defeituosos, falhas de mão de obra e de métodos de execução dos serviços.
+Durante o período de garantia, a CONTRATADA deverá reparar, ou substituir todo material que apresente não conformidades, mesmo que tenha sido aceito e pago, não acarretando qualquer ônus para o CONTRATANTE.
+A CONTRATADA autoriza a GERDAU, após firmar o CONTRATO, a reter a quantia equivalente a 5% (dez por cento) sobre o montante das medições mensais e/ou medições por CAE's, a título de retenção técnica, para garantia do cumprimento das obrigações do CONTRATO.
+O valor da retenção técnica da cláusula acima será liberado à CONTRATADA, sem qualquer correção, após o aceite final dos serviços pela GERDAU, recebimento do "Data Book" e mediante a assinatura de Termo de Encerramento e de rasa quitação.
+A devolução da retenção técnica ou o seu saldo está condicionado à execução satisfatória das obrigações contratuais pela CONTRATADA.
+Será aceita carta de fiança bancária ou apólice de seguro garantia somente com data de validade superior a 2 meses após a previsão do término da obra, para pagamentos de adiantamentos, se necessário. 
+Não serão aceitos seguro-garantia ou qualquer outro tipo de garantia em substituição à retenção técnica.
+
+12.3 REGIME DE TRABALHO
+A jornada de trabalho estipulada para a execução dos serviços descritos na presente ES é de 1 turno diário de 8h cada, com o intervalo para refeição de 1h.
+Havendo necessidade de extensão da jornada de trabalho, esta deverá ser acordada previamente com a GERDAU através de e-mail e documento formal aos Coordenadores GERDAU, e anuência do sindicato local e, posteriormente, ser indicada no Relatório Diário de Obra (RDO). Deve ser previsto pelo menos 1 dia de descanso para todas as equipes e cada equipe não poderá ultrapassar 11 horas máximas de trabalho dentro das instalações GERDAU.
+Deverá ser verificado junto ao sindicato local, quanto ao regime de trabalho permitido (p.ex: horas extras, extensão dos turnos de trabalho, etc.)
+Importante: A Gerdau deixa a critério da Contratada para que dentro de seu planejamento sejam executados trabalhos em turno estendidos ou até mesmo em regime de 24 horas por dia ou trabalhos em dias de folgas ou feriados. A Gerdau ainda salienta que os limites estabelecidos por lei ou ainda em convenção coletiva não devem ser desrespeitados e/ou violados. 
+12.4 REGIME DE TRABALHO EM HORA EXTRA
+Os trabalhos em regime de hora extra devem respeitar as Normas de Segurança presentes no Manual de Gestão de Saúde, Segurança e Meio Ambiente para Contratadas fornecidas no "Anexo 12 - Manual de Gestão de Saúde, Segurança e Meio Ambiente para Contratadas" desta ES. Salientamos que a aplicação das referidas horas extras é de decisão da CONTRATADA, sem ônus a GERDAU.
+12.5 TOPOGRAFIA
+Todos os equipamentos utilizados para as locações e nivelamento deverão estar com certificado válido de calibração. Adotar utilização de equipamento Laer Tracker, com equipe devidamente qualificada.
+12.6 DESCARTE DE RESÍDUOS
+Todos os resíduos gerados durante as montagens deverão ter destinação correta em local indicado pela GERDAU, sob exclusiva responsabilidade e custos da CONTRATADA. 
+12.7 ABASTECIMENTO DE COMBUSTÍVEL
+Para abastecimento de qualquer veículo, máquina ou equipamento, devem ser observados e cumpridos os seguintes procedimentos:
+O abastecimento é de responsabilidade da CONTRATADA. Caso a CONTRATADA julgue necessário, poderá utilizar o serviço interno da GERDAU (executado pela empresa PESA). Este deve ser feito por pessoas treinadas e por caminhão tipo comboio. A CONTRATADA deverá consultar a GERDAU para obter mais informações.
+12.8 COLABORADORES
+A GERDAU se reserva o direito de avaliar os currículos dos colaboradores que a CONTRATADA planeja alocar na obra, podendo vetar a participação de qualquer profissional no projeto a qualquer tempo. Além disso, se reserva o direito de retirar da obra qualquer profissional, caso julgue necessário.
+Para a célula de Planejamento, a CONTRATADA deve apresentar à Gerdau um Engenheiro de Planejamento com no mínimo 10 anos de experiência em obras de grande porte
+12.9 SEGURANÇA DO TRABALHO
+Os colaboradores deverão obrigatoriamente participar do Programa Integração de Terceiros (PIT) com duração de 4 horas e obter nota mínima 7,0 no teste de conhecimentos. A reprovação nesta prova é impeditiva para o credenciamento do profissional e o colaborador que tiver três reprovações não poderá mais realizar a prova no ano vigente.
+A CONTRATADA deverá elaborar e apresentar seu Programa de Condições e Meio Ambiente de Trabalho na Indústria específico para a obra em conformidade com a legislação vigente e normas da GERDAU, além do Programa de Controle Médico de Saúde Ocupacional (PCMSO) e Programa de Prevenção de Riscos Ambientais (PPRA), em até 15 dias após a emissão do documento de contratação corridos.
+A CONTRATADA deverá acatar todas as Normas Internas de Segurança do Trabalho adotadas pela GERDAU, conforme Manual de Gestão de Saúde, Segurança e Meio Ambiente para Contratadas (Anexo 12 - Manual de Gestão de Saúde, Segurança e Meio Ambiente para Contratadas).
+No decorrer da obra, a GERDAU organizará Palestras e Diálogo Diário de Segurança (DDS) especiais, no qual toda a equipe da obra deverá participar. A CONTRATADA deverá apoiar e solicitar a presença de todos os funcionários sob sua responsabilidade nestes eventos. A participação nestes eventos não caracteriza, de forma alguma, horas improdutivas; portanto, não poderá ser motivo de pleito. As práticas de Palestras e DDS especiais de Segurança devem fazer parte da Política de Segurança Interna da CONTRATADA. A GERDAU considera este um esforço adicional de segurança e, em conjunto com a CONTRATADA, deverá aplicar durante a execução de Obras. A aplicação desta prática durante a jornada de trabalho será acordada entre a CONTRATADA e a GERDAU por ocasião do planejamento das atividades de obras.
+A liderança e a equipe de segurança deverão participar da Hora da Segurança, um horário no qual todos os dias os líderes (engenheiros responsáveis pela execução da obra) e técnicos de segurança, inclusive prestadores de serviços, se dedicam exclusivamente para visita às áreas, auditorias de padrões, inspeções e avaliações das condições de segurança e meio ambiente das áreas. A intenção da Hora da Segurança é mostrar para todos os colaboradores o comprometimento das lideranças com a segurança. Para tanto, é importante que a mesma seja realizada única e exclusivamente na área, e não em sala. Não devem ser marcados treinamentos e/ou reuniões neste horário.
+A GERDAU - GSB se reserva o direito de estabelecer procedimentos específicos de Segurança do Trabalho a serem observados durante a vigência da obra. Tais procedimentos não devem ser caracterizados por improdutividade e estão descritos na tabela a seguir: 
+
+Para o cumprimento de todos os procedimentos aqui descritos, fica obrigatória a presença de técnicos de segurança durante a execução de todos os serviços, independentemente do turno de execução.
+A quantidade de profissionais deve ser suficiente para atender o cronograma da GERDAU.
+Por motivos de segurança de todos, bem como das instalações da Usina, a GERDAU se reserva o direito de fazer revistas de carros e de pessoas.
+A CONTRATADA deve apresentar uma lista com todos os equipamentos e as respectivas identificações, antes da entrada na Usina.
+A CONTRATADA assumirá todos os riscos e ônus inerente aos danos materiais e/ou pessoais, causados por funcionários e/ou seus veículos e/ou equipamentos envolvidos na execução da Obra.
+A CONTRATADA é responsável pelo fornecimento e fiscalização do uso de Equipamentos de Proteção Individual (EPI) de seus colaboradores, substituindo-os quando necessário, de modo a não afetar a segurança pessoal e a normalidade dos serviços, conforme Portaria 3214 de 08/06/1978 do Ministério do Trabalho. É obrigatório o uso de capacete, cuja cor não seja amarela, óculos, botas e protetor auricular tipo concha.
+Além disso, a CONTRATADA é responsável por fornecer todos os Equipamentos de Proteção Coletiva (EPC), quando necessário.
+A GERDAU se reserva o direito de proibir a entrada e permanência de empregado e/ou subcontratado cujos uniformes não estejam dentro dos padrões satisfatórios. Além dos EPIs obrigatórios, é proibida a utilização de bermudas, blusas/camisetas de manga curta e adornos. 
+A CONTRATADA deverá adotar procedimentos de segurança compatíveis com os serviços a serem executados, utilizando-se de ferramentas/equipamentos adequados, cinto de segurança e andaimes especiais para acesso a trabalhos em locais elevados, etc.
+A CONTRATADA é a única responsável pela segurança, guarda e conservação de todos os materiais, equipamentos, ferramentas e utensílios e ainda pela proteção destes e das instalações da Obra. 
+Qualquer dano sofrido nos materiais, equipamentos ou instrumentos, eventualmente entregues pela GERDAU, será avaliado pela Fiscalização da GERDAU e, em caso de constatação de dano irrecuperável ou perda, é de responsabilidade da CONTRATADA providenciar a sua substituição.
+Em caso de acidente no canteiro de trabalho, a CONTRATADA deverá:
+* Prestar todo e qualquer socorro imediato às vítimas e ligar para o Ramal de Emergência (5000) - pode ser acionado via celular pelo número (12) 2126-7777;
+* Paralisar imediatamente a obra nas suas circunvizinhanças, a fim de evitar a possibilidade de mudanças das circunstâncias relacionadas com o acidente;
+* Solicitar imediatamente o comparecimento da Fiscalização da GERDAU no lugar da ocorrência, relatando o fato;
+* Prestar o atendimento posterior ao de emergência ao seu funcionário;
+* Participar de maneira efetiva na investigação do acidente.
+
+13 RESPONSABILIDADES DA GERDAU
+
+A GERDAU se compromete com os fornecimentos e deveres abaixo relacionados:
+
+13.1 GESTÃO DA INFRAESTRUTURA BÁSICA
+
+Fornecer ponto de água industrial e energia elétrica, conforme informado na descrição do escopo e responsabilizar-se pelo pagamento dos consumos de água e energia na obra. Limitando-se a disponibilidade de 110V, 220V e 440V, inclusive nos vestiários.
+* Providenciar local adequado à descarga e manuseio de materiais. 
+
+13.2 GESTÃO EXECUTIVA
+
+* Aquisição e entrega de todos os materiais de sua responsabilidade em tempo hábil ao cronograma;
+* Fornecer os Projetos Básicos e Executivos.
+* Apresentar na reunião de kick-off do projeto o plano de gestão da obra que deverá ser seguido pela PROPONENTE;
+* A gestão consistirá basicamente de:
+* Reuniões diárias de trabalho (15min ao final do expediente);
+* Reuniões semanais de planejamento e controle;
+* Emissão semanais do planejamento de atividades com visão de 15 dias; 
+* Registros diários de obra. As ocorrências da obra deverão ser devidamente registradas e rubricadas por ambas as partes. 
+* A PROPONENTE deverá entregar o RDO com no máximo 24 horas de defasagem;
+
+13.3 GESTÃO DE SEGURANÇA
+* Os departamentos de Medicina, Higiene e Segurança da GERDAU, são autorizados a orientar e fiscalizar os procedimentos de Segurança;
+* Se necessário, solicitar o afastamento de todo funcionário da PROPONENTE que estiver em desacordo com as normas de segurança da GERDAU;
+* Os eventos geradores de paralisação e interrupção da obra pela segurança serão encargos e responsabilidade da PROPONENTE, eximindo a GERDAU de quaisquer ônus provenientes deste evento;
+* Realizar diariamente a hora de segurança na obra;
+* Realizar as liberações de documentação de segurança diariamente na obra. As liberações serão todas realizadas em campo e os horários serão definidos em conjunto com a PROPONENTE no momento do planejamento do projeto;
+* Realizar os treinamentos de elaboração de APRs e PTs.
+
+13.4 GESTÃO ADMINISTRATIVA
+* Dar condições e acesso aos meios de divulgação dos padrões de segurança da GERDAU;
+* Credenciar os crachás para identificação de todos os empregados, prepostos e eventuais subcontratados da PROPONENTE que transitarão nas suas dependências e instalações, garantindo-lhes o acesso ao local de obra, desde que respeitadas às regras internas da GERDAU;
+
+14 RESPONSABILIDADES DA CONTRATADA
+Constituem responsabilidades da CONTRATADA:
+* Executar os serviços e fornecimentos do objeto aqui descrito, com integral observância à ES e seus anexos, obedecendo rigorosamente os manuais, desenhos, restrições, especificações técnicas e demais instruções apresentadas;
+* Definir e descrever a metodologia construtiva a ser adotada através de procedimentos e coerentemente programar a execução dos serviços, disponibilizando estes documentos à fiscalização, pelo menos 10 (dez) dias úteis antes do início dos serviços;
+* Realizar todos os trabalhos de topografia inerentes à Especificação Técnica;
+* A liderança técnica deverá participar semanalmente das Reuniões de Acompanhamento para planejamento e controle de obra;
+* Participar diariamente da Hora da Segurança, conforme descrito anteriormente no item Segurança do Trabalho.
+
+14.1 PLANEJAMENTO E CONTROLE
+A CONTRATADA deverá:
+* Apresentar um cronograma em MS-Project, o qual deverá ser avaliado e aprovado pela equipe GERDAU. A GERDAU realizará, no início e ao longo da execução do projeto, análises de qualidade do cronograma, o qual avaliará, mas não se limitará à: lógica entre as atividades, existência de latência positiva e negativa, tipos de relacionamento entre as tarefas, folgas, longas durações, datas inválidas, atividades sem recursos e custos, deslocamento de datas, caminho crítico e linha de base. O plano de trabalho a ser adotado pela PROPONENTE deverá conter todas as estratégias para o desenvolvimento das obras, obedecendo ao prazo de execução acordado, incluindo o processo de mobilização e desmobilização;
+* Apresentar e entregar semanalmente o cronograma físico financeiro atualizado da obra com detalhamento por área;
+* Apresentar e entregar semanalmente o plano de recuperação de serviços em atraso, quando necessário;
+* Apresentar e entregar semanalmente o histograma (pessoas e equipamentos) previsto x realizado atualizado;
+* Apresentar e entregar semanalmente o Relatório de Acompanhamento Semanal atualizado;
+* Apresentar e entregar mensalmente o Relatório de Acompanhamento Mensal atualizado;
+* Apresentar e entregar diariamente o Relatório Diário de Obra (RDO), no máximo 24 horas úteis posterior à execução das atividades. O RDO será feito em meio eletrônico e, para tanto, é necessário que a CONTRATADA possua um computador com acesso à internet;
+* Toda e qualquer montagem eletromecânica realizada diferente do projeto original, deve ser emitido uma "Solicitação de Mudança (SM)" com os respectivos "as built" em mídia digital, devendo o mesmo ser parte integrante do "Data Book"
+A CONTRATADA deverá seguir o Manual de Planejamento e Controle, fornecido pela GERDAU (Anexo 8 - Manual de Planejamento), bem como seus templates, que contêm todas as informações necessárias para preenchimento dos itens citados acima.
+DOCUMENTO
+PRAZO
+MÍDIA
+Reunião de Kick Off
+Em até 02 dias úteis após o pedido de compras
+-
+Programa de Gestão Segurança/ Ambiental/ PCMSO/ PPRA
+Em até 15 dias corridos após o pedido de compras
+Apresentação Digital
+Lista para Mobilização (Equipe - incluindo função / Equipamentos / Materiais)
+Em até 15 dias corridos após o pedido de compras
+Apresentação Digital
+Cronograma Detalhado
+Em até 15 dias corridos após o pedido de compras
+Apresentação Digital
+Cronograma Físico / Financeiro
+Semanalmente
+Apresentação Digital
+Plano de Recuperação de serviços em atraso
+Semanalmente - Quando necessário
+Apresentação Digital
+Histograma - previsto x realizado
+Semanalmente
+Apresentação Digital
+Relatório Semanal de Acompanhamento (Segurança, Meio Ambiente, Planejamento, Técnicas, Diversos)
+Semanalmente
+Apresentação Digital
+Relatório Mensal de Acompanhamento (Segurança, Meio Ambiente, Planejamento, Técnicas, Diversos)
+Mensalmente
+Apresentação Digital
+Relatório Diário de Obra (RDO)
+Diário (no máximo 24h úteis após a atividade)
+Impresso / Apresentação Digital
+As Built do projeto em 3D, plantas, cortes e elevações
+Em até 15 dias após a conclusão dos serviços
+Impresso / Apresentação Digital
+
+Databook
+
+Em até 15 dias após a conclusão dos serviços
+
+Impresso / Apresentação Digital
+Termo de Encerramento Contratual
+Em até 05 dias após a entrega do Databook
+Impresso / Apresentação Digital
+14.2 SISTEMA BANCODOC
+Todo o efetivo da CONTRATADA deverá utilizar o Sistema Bancodoc da GERDAU, registrando todos os funcionários que serão mobilizados obra. 
+A CONTRATADA deverá disponibilizar uma equipe administrativa para lançamento das mobilizações no sistema e para providência da documentação necessária. 
+Primeiramente, deve ser realizado um cadastro da empresa prestadora de serviços. Após sua efetivação, deve ser feito o cadastro de cada funcionário, anexando todos os documentos necessários (como Atestado de Saúde Ocupacional, Carteira de Trabalho, entre outros). A classificação de risco de cada profissional será avaliada conforme Manual de Qualificação e Acesso de Prestadores de Serviço (anexo 8). Em decorrência desta classificação, por função, serão requeridos certos exames e documentos para mobilização.
+Após o envio da documentação, deve ser feito o pagamento da taxa, que deverá ser paga mensalmente em função da quantidade de funcionários. Após cadastramento e liberação do Bancodoc, participação do PIT e da respectiva prova, os colaboradores que forem aprovados serão liberados para o acesso e início das atividades na unidade.
+Maiores detalhes sobre o Sistema Bancodoc podem ser verificados nos anexos Manual para Qualificação e Acesso de Prestadores de Serviço (Anexo 12 - Manual de Gestão de Saúde, Segurança e Meio Ambiente para Contratadas) e Carta de Apresentação - Bancodoc (Anexo 15 - Carta de Apresentação - BancoDoc).
+O custo e a realização do cadastro são de responsabilidade da CONTRATADA. A CONTRATADA deve se antever ao cadastro dos funcionários para não comprometer o início das atividades do cronograma.
+14.3 GESTÃO DE QUALIDADE
+* Materiais não especificados no projeto deverão atender às normas da ABNT, só podendo ser utilizados mediante autorização formal da fiscalização da GERDAU.
+* A CONTRATADA deve corrigir quaisquer erros de execução, qualidade, não conformidades, de projeto ou de outra ordem, para atender aos requisitos mínimos de qualidade exigidos, sem qualquer ônus a GERDAU.
+* A CONTRATADA deve atender a todos os padrões da GERDAU constantes nesta ES e nos anexos.
+* Acionar a GERDAU em tempo hábil (mínimo 5 dias de antecedência), antes da execução do serviço, caso identifique a necessidade de algum esclarecimento técnico que possa ser contraditório ou faltante na documentação já enviada (desenhos, especificações, etc.).
+14.4 GESTÃO DA INFRAESTRUTURA DE OBRA E OBSTRUÇÕES
+* Montar o canteiro com sistemas de fácil mobilização e desmobilização, evitando passivos ambientais no término dos trabalhos. A localização do canteiro será definida juntamente com a Fiscalização da GERDAU.
+* O canteiro deverá ter instalações hidráulicas, sanitárias e elétricas, executadas conforme as normas vigentes (ABNT) e compatíveis com o número de funcionários.
+* A CONTRATADA deverá apresentar projeto/ART referente às suas instalações elétricas durante a obra;
+* A GERDAU disponibilizará um refeitório nas instalações da Usina, entretanto o custo das refeições e as demais tratativas são de responsabilidade da CONTRATADA e deverão ser negociados diretamente com a empresa administradora do refeitório.
+* As turmas de almoço no refeitório deverão ser dimensionadas adequadamente, de modo evitar a perda de produtividade em função da capacidade no refeitório. Caso necessário, a CONTRATADA deverá dividir suas equipes em diferentes turmas de almoço.
+* A iluminação das frentes de obras deverá atender às necessidades do serviço de vigilância e eventuais serviços noturnos.
+* Para a desmobilização, será comparado o local da entrega do canteiro com o local antes da implantação, através de registro com foto digital e check list específico, a fim de identificar a limpeza e organização da entrega.
+* A obra deverá ser mantida e entregue limpa sem obstruções de qualquer entulho, pronta ao uso ao qual se destina e fornecendo sempre facilidades, para que não haja interrupção no ritmo dos trabalhos. Os locais utilizados para implantação de canteiros de obra deverão ser recompostos, de forma a apresentarem condições, níveis e aspectos idênticos aos quais possuíam quando neles se instalou a CONTRATADA.
+* A CONTRATADA deverá executar, se necessário, e manter em boas condições as vias de acesso e a drenagem das áreas do Projeto, cuidando para não obstruir as áreas de passagem de uso comum com outras empreiteiras ou com a GERDAU.
+* Proceder, ao término dos serviços, a desocupação total das áreas da GERDAU ocupadas para a prestação dos serviços, provendo as necessárias demolições, desmontagens, limpeza e destinação apropriada do material indesejável.
+* Submeter à prévia autorização da área de Manutenção Elétrica da GERDAU a elaboração de todas as ligações elétricas necessárias aos serviços contratados, não sendo permitidos reparos e improvisações, bem como, modificação em circuitos e equipamentos da GERDAU.
+* A CONTRATADA é responsável pela execução dos serviços e pelo fornecimento de materiais necessários de instalação elétrica e hidráulica provisórios, entre os pontos fornecidos pela GERDAU e os pontos de abastecimento necessários aos seus equipamentos e instalações.
+* Separar o lixo, conforme critérios de reciclagem e acondicioná-lo em local a ser determinado pela GERDAU, do início ao fim das atividades.
+14.5 GESTÃO DE MÃO DE OBRA, MATERIAIS E EQUIPAMENTOS
+A CONTRATADA deverá fornecer todo o material e a mão de obra especializada para a realização dos serviços, conforme proposta aprovada pela GERDAU. Além disso, deverá fornecer equipamentos, ferramentas, transporte horizontal/vertical e demais elementos necessários à perfeita execução do escopo do projeto, providenciando a necessária mobilização e desmobilização;
+A GERDAU não se obrigará a fornecer por empréstimo quaisquer tipos de ferramentas, equipamentos ou máquinas;
+A CONTRATADA deve fornecer todo o material e a mão de obra para a mobilização e desmobilização das instalações provisórias do canteiro de serviços, contêineres para escritórios, depósitos e demais instalações necessárias;
+Responsabilizar-se pela descarga, conferência, estocagem, e transporte horizontal e vertical, organização, guarda e controle dos materiais entregues pela GERDAU, protocolando os recebimentos. Todos os custos decorrentes do manuseio destes, como carga, descarga e transporte até o local da obra devem estar inclusos nos seus preços dos referidos serviços;
+Fornecer todo o material e a mão de obra para o sistema de distribuição de água para canteiro e limpeza, bem como, energia, a partir do ponto disponibilizado pela GERDAU;
+Fornecer sempre na quantidade necessária os transportes verticais (tais como guindastes e gruas, quando aplicável) e transportes horizontais necessários para materiais, pessoal e equipamentos relativos à obra, bem como todas as máquinas e ferramentas, manuais ou especiais, para o cumprimento do cronograma;
+A CONTRATADA é responsável por todo transporte de seus colaboradores ao longo da Unidade. Qualquer irregularidade nos veículos ou ao menor indício de risco, devem ser tomadas providências imediatas para correção dos problemas. São observações que devem ser cumpridas:
+a) Os motoristas devem obedecer, fielmente, às regras e às normas de trânsito, principalmente quanto ao limite de velocidade de 20 km/h;
+Não exceder o limite de carga exigido pela Polícia Rodoviária;
+Os veículos não podem transportar junto com colaboradores, produtos perigosos ou nocivos à saúde tais como combustíveis, ferramentas, máquinas, equipamentos, peças, botijão de gás, produtos químicos, inseticidas e outros;
+A segurança do pessoal é um valor para a GERDAU, por isso os passageiros deverão evitar distrair o motorista com brincadeiras, conversas ou outros movimentos que tire a atenção do motorista;
+Diariamente devem ser vistoriados pelos responsáveis de segurança, os freios, direção, luz de freio, setas, faróis, pneus, assoalhos, longarinas, de carroceria, conservação dos bancos, escadas, extintor de incêndio, triângulo, cinto de segurança, ferramentas e documentos dos veículos;
+Em caso de qualquer irregularidade, o veículo será proibido de circular. A CONTRATADA é responsável pela substituição do mesmo em tempo hábil para não prejudicar o atendimento às atividades e aos prazos estabelecidos;
+É expressamente proibido fumar dentro dos veículos de transporte de pessoal;
+Devem ser respeitas as demais normas de segurança, trânsito e transporte fornecidas juntamente com esse material, de acordo com as normas e políticas da GERDAU.
+A CONTRATADA deve fornecer aos seus empregados uniformes, alimentação, transporte, alojamento, conforme NR-18 e outras disposições legais (se necessário), bem como todos os materiais de segurança necessários ao desempenho de suas atividades, obrigando e fiscalizando a utilização desses EPIs.
+Todos os funcionários devem usar roupas apropriadas e com identificação da empresa como uniforme de trabalho. Os uniformes devem estar em condições adequadas de higiene e conservação.
+O fornecimento de telefonia e internet para garantir o bom andamento dos trabalhos será de responsabilidade da CONTRATADA;
+Todos os equipamentos e ferramentas deverão possuir numeração (identificação), a fim de ser vistoriado na chegada e durante toda a obra. Deverá ficar de posse da GERDAU uma lista com todos os equipamentos e ferramentas;
+Utilizar e manter os equipamentos e ferramental em bom estado de conservação e uso, com as peças e componentes adequados à sua utilização em cada situação, bem como com proteção adequada nas partes móveis e perigosas conforme manual de segurança da GERDAU;
+Fornecer tudo o que mais for necessário para a perfeita execução dos trabalhos e com estes diretamente relacionados;
+Adotar todas as providências necessárias para que empregados desligados da prestação de serviços CONTRATADA não adentrem nas dependências da GERDAU, mantendo a área de Segurança Patrimonial informada sobre todos os desligamentos através da Listagem de Colaboradores sempre atualizada, para que seja imediatamente bloqueado nas catracas;
+Para fins de controle administrativos, o acesso à GERDAU pelos empregados e/ ou subcontratados da CONTRATADA, nos finais de semana e feriados, deve ser feito somente com expressa autorização da GERDAU, e desde que com prévia informação à portaria da unidade, companhia subsidiária, coligada e/ ou demais empresas do conglomerado da GERDAU, sendo a GERDAU isenta de qualquer custo e responsabilidade em trabalhos realizados nestas condições;
+É vedada a circulação de empregados e/ ou subcontratados da CONTRATADA no interior da GERDAU sem a devida autorização, ficando restrito ao seu local de trabalho e a utilização das vias de acesso de entrada/ saída da GERDAU;
+Não é permitida a permanência de empregados e/ ou subcontratados da CONTRATADA em frente ao prédio da GERDAU, antes do horário de trabalho ou durante horário de refeições;
+Não é permitido aos empregados e/ ou subcontratados da CONTRATADA a operação de equipamentos móveis (veículos) ou de içamento (gruas, guindastes, empilhadeiras) de propriedade da GERDAU;
+A CONTRATADA deve manter as instalações eventualmente cedidas pela GERDAU em perfeito estado de conservação, limpeza e higiene, de acordo com as regras e normas estabelecidas;
+Não empregar na execução dos serviços deste ES quaisquer ex-funcionários da GERDAU, salvo com concordância prévia e expressa;
+O processo de recrutamento e seleção, bem como contratação de colaboradores da CONTRATADA, não pode ser realizado no interior das unidades, companhias subsidiárias, coligadas e demais empresas do conglomerado da GERDAU;
+O pagamento de salários deve ser efetuado por meio bancário. Não é permitida a realização de pagamento no interior das unidades, companhias subsidiárias, coligadas e demais empresas do conglomerado da GERDAU;
+Fornecer água potável aos seus empregados tanto nas áreas administrativas como nos pontos de apoio no site, não sendo permitida a utilização de copos coletivos, bem como o consumo de água de fonte (bica) obtida no interior da GERDAU;
+* Disponibilizar área de vivência nos postos de trabalho de cada colaborador;
+* Observar os horários de execução dos serviços estabelecidos de comum acordo entre as Partes e apenas realizar serviços extraordinários com a autorização expressa da GERDAU, através do gestor do CONTRATO ou do responsável pela segurança.  Esta autorização deverá ser realizada com antecedência mínima de 24 (vinte e quatro) horas;
+* A CONTRATADA, seus empregados e/ ou subcontratados não deverão ter acesso aos sistemas ou programas de informática corporativos da GERDAU. Em caso de extrema necessidade, é permitido tão somente o acesso ao correio eletrônico, desde que com expressa autorização e comunicação do gerente da GERDAU e da área de TI da GERDAU.
+14.6 GESTÃO DOS CUSTOS
+Executar a obra, conforme os projetos de referência fornecidos pela GERDAU, caso ocorra alteração de escopo e/ou escopo adicional as partes deverão acordar previamente e formalmente, através do preenchimento do Relatório Extra Escopo ou Solicitação de Mudança, conforme template constante no Manual de Planejamento e Controle (Anexo 8 - Manual de Planejamento);
+A CONTRATADA deve responsabilizar-se pelos serviços executados em desacordo com as normas da ABNT, manuais, padrões, especificações dos projetos e demais documentos necessários à perfeita execução dos serviços, e por todos os gastos de materiais, mão de obra e equipamentos necessários ao retrabalho dos serviços em desacordo sem ônus para a GERDAU, bem como ressarcimento à GERDAU dos materiais fornecidos.
+Arcar com despesas de alojamento e refeições conforme leis sindicais a que estão correlacionados, atendimento ambulatorial, transporte, EPIs e demais despesas dos funcionários.
+Arcar com a manutenção, combustíveis e lubrificantes dos equipamentos e ferramentas fornecidos por ela. 
+A guarda dos materiais, equipamentos, ferramentas e tudo mais necessário para realização dos serviços é de responsabilidade da CONTRATADA e a GERDAU poderá disponibilizar espaço livre e aberto para este fim. 
+O carregamento, descarregamento, controle, organização, identificação, estocagem e transporte horizontal de todos os materiais de aplicação é de responsabilidade da CONTRATADA. 
+A CONTRATADA deverá, também, efetuar, por sua conta, todo o transporte externo ou interno, horizontal ou vertical, carga e descarga de material ou equipamento referente às obras do escopo desta ES. Portanto, estes custos deverão estar inclusos no preço dos referidos serviços fins.
+14.7 GESTÃO ADMINISTRATIVA
+A CONTRATADA é responsável por promover o entendimento e garantir o cumprimento de todas as normas constantes na ES e seus anexos, pelo quadro de colaboradores que estarão alocados no Projeto. A CONTRATADA deve disponibilizar e documentar todos os treinamentos exigidos para cada cargo/função.
+Executar, de forma diligente e oportuna, os serviços, observando integralmente as especificações constantes nos anexos da ES, normas e padrões técnicos aplicáveis, garantindo a sua boa qualidade.
+Fornecer toda administração e supervisão técnica necessária aos serviços.
+Apresentar semanalmente o Planejamento das atividades de cada evento para consenso com a GERDAU, bem como cumprir e atualizar o cronograma físico do projeto, identificando os desvios para correção dos atrasos.
+Realizar todo e qualquer serviço de topografia, necessário à execução da obra. Ficará a critério da GERDAU a auditoria com topógrafo próprio, quando julgar pertinente. 
+Se responsabilizar pelo seu patrimônio e pelos materiais a ela entregues, devendo zelar por seus pertences e de seus funcionários. 
+A liberação da concretagem se dará após a aprovação da equipe GERDAU, com antecedência mínima de 24h da concretagem.
+A CONTRATADA deve elaborar o Relatório Diário da Obra, conforme template constante no Manual de Planejamento e Controle da GERDAU (Anexo 8 - Manual de Planejamento), contendo condições de tempo, efetivo de mão de obra direta, indireta e subcontratadas, absenteísmo, equipamentos, e relação sumária dos serviços em execução, submetendo à análise e aprovação da GERDAU e manter sob sua guarda uma via sempre atualizada.
+Enviar o Relatório Diário de Obra em até 24 horas descrevendo as ocorrências do dia, devendo este documento após assinado e devolvido, permanecer na obra para futuras consultas.
+Executar todos os serviços promovendo a organização técnica e administrativa da obra e de seu apoio logístico que forem necessários a todos os serviços do escopo, obrigando-se ao cumprimento dos requisitos do projeto e prazos de construção, de acordo com as condições estabelecidas por todos os documentos integrantes desta ES. 
+14.8 GESTÃO DE SEGURANÇA
+Os eventos geradores de paralisação e interrupção da obra pela Segurança serão encargos e responsabilidade da CONTRATADA, eximindo a GERDAU de quaisquer ônus provenientes deste evento;
+* 
+15 APRESENTAÇÃO DAS PROPOSTAS
+
+A PROPONENTE deverá inspecionar o local onde serão executados os serviços, identificando facilidades, dificuldades e eventuais restrições ao trabalho a ser desenvolvido, visando colher dados e todos os elementos considerados necessários para a elaboração da Proposta Técnica e Comercial. 
+A proposta comercial da PROPONENTE deverá fazer referência expressa à última revisão da ES e seus anexos.
+
+15.1 PROPOSTA COMERCIAL
+A Proposta Comercial deverá conter:
+* PLANILHA ORIENTATIVA preenchida em meio eletrônico, com valores expressos em Reais. Os preços serão fixos por 12 meses, independentemente de data base de classe/categoria e da alteração do acordo coletivo
+* PLANILHA DE COMPOSIÇÃO PADRÃO GERDAU preenchida e enviada completa em meio eletrônico;
+* Todos os serviços eventualmente não mencionados na PLANILHA ORIENTATIVA, porém constantes na relação de desenhos enviados, devem ser considerados em seu orçamento. Não serão aceitas reivindicações de preços de serviços não mencionados na planilha, mas constantes no projeto, ou ainda, que sejam necessários à execução das obras em termos de serviços auxiliares ou intermediários. Estes serviços deverão ser incluídos em seu preço;
+* A composição dos custos de mão de obra, materiais, equipamentos, ferramentas específicas e incidência do BDI, estes deverão ser enviados também em meio eletrônico conforme planilha de composição padrão enviada pela GERDAU;
+* Prazo de validade da proposta: 60 dias (após o recebimento pela GERDAU);
+* Composição dos encargos sociais, tanto para horistas como para mensalistas;
+* Tabela com custos horários produtivos e não produtivos de aluguel para todos os equipamentos previstos para uso na obra, a ser utilizada em casos de trabalhos extracontratuais, conforme padrão enviado pela GERDAU;
+* Tabela com preços da hora de cada categoria profissional, conforme padrão da GERDAU;
+* Para ambas as tabelas, o preço hora deverá ser apresentado de forma completa, informado todos os valores que compõe a hora do trabalhador. Nestes deverão estar incluídos, mas não limitado a, encargos sociais, benefícios, alimentação, hospedagem, transporte, combustíveis, ferramentas, EPIs, uniformes, exames médicos, equipamentos e demais custos diretos ou indiretos, característicos de cada função, necessários para a execução dos serviços.
+
+O proponente deverá encaminhar proposta técnica/comercial ao Departamento de Suprimentos da Gerdau, para:
+
+Márcia Guimarães
+marcia.guimaraes@gerdau.com.br
+Suprimentos Capex
+
+
+
+
+
+
+
+
+
+
+15.2 PROPOSTA TÉCNICA
+
+A proposta técnica deverá conter:
+* Introdução;
+* Razão Social e Localização da sede;
+* Relação de obras executadas e em execução nos últimos 2 (dois) anos com relatório fotográfico;
+* Atestados técnicos dos últimos 2 (dois) anos;
+* Organogramas da Empresa e da Obra;
+* Descrição do escopo;
+* Métodos construtivos (etapas dos serviços);
+* PLANILHA DE COMPOSIÇÃO PADRÃO GERDAU, preenchida e enviada em meio eletrônico as planilhas técnicas.
+* Planejamento e Execução da Obra incluindo:
+a) Estudo do canteiro de obras (layout), indicando as áreas e o arranjo previsto para os diferentes setores;
+b) Planejamento executivo contendo a metodologia e materiais a serem utilizados;
+c) Plano de mobilização e desmobilização, se houver;
+d) Plano para trabalho no período chuvoso do projeto de forma a atender as necessidades do cronograma, se houver;
+e) Plano de consumo previsto de água e energia a ser utilizado, se houver;
+f) Cronograma físico-financeiro para execução dos trabalhos, mostrando prazos para cada atividade e o montante previsto para cada medição mensal. Esse será a base para a elaboração da Planilha de Medição Corporativa.
+g) Cronograma Físico (MS Project 2010);
+h) Estrutura Analítica do Projeto (EAP), se houver;
+i) Histograma para mão de obra direta e indireta, efetiva ou sub-proponente, que serão utilizadas para a execução dos serviços, conforme o cronograma e necessidades da obra;
+j) Plano de recursos humanos detalhando o total de recursos e horas produtivas e não produtivas, demonstrando cálculos de produtividade que levam ao histograma de MO no item acima;
+k) Histograma de equipamentos a serem usados na obra, incluindo aqueles a serem alugados e, neste caso, devidamente identificados como tais;
+l) Procedimentos de controle de qualidade;
+m) Lista de empresas a serem eventualmente sub-proponente para a obra, bem como suas atividades específicas;
+n) Certificações;
+o) Lista de exclusões.
+
+		Dúvidas e/ou informações técnicas deverão ser esclarecidas junto ao Coordenador do Contrato:
+
+
+Marcelo João Pinheiro
+marcelo.pinheiro@gerdau.com.br
+Engenharia - Usina Pindamonhangaba
+Gerdau Aços Especiais Brasil
+Tel. +55 12 99121-2437
+
+
+15.3 ANÁLISE DAS PROPOSTAS E CONTRATAÇÃO
+
+A apresentação das Propostas Comercial e Técnica não estabelece qualquer direito da PROPONENTE. A GERDAU poderá, a seu exclusivo critério, anular o presente ES, no todo ou em parte, ou escolher a Proposta que melhor atenda aos seus interesses, independentemente de ser ou não a de preço mais baixo, sem a obrigação de fornecer quaisquer explicações ou justificativas às PROPONENTES.
+A GERDAU reserva-se ao direito de contratar uma ou mais empresas, da melhor forma que lhe convier, para execução da presente ES.
+Durante a análise das Propostas, a PROPONENTE poderá ser solicitada a dar esclarecimentos adicionais, com o objetivo de possibilitar uma melhor equalização e avaliação das propostas apresentadas.
+Os histogramas de equipamentos e de mão de obra informados pela PROPONENTE em sua Proposta Técnica serão considerados como o recurso mínimo a ser disponibilizado. No entanto, a responsabilidade pela produção é inteiramente da PROPONENTE. O mesmo se aplica ao cumprimento do cronograma dos itens informados nesta ES. A PROPONENTE deverá monitorar, avaliar e se necessário, aumentar seu quadro de funcionários ou de equipamentos e sua grade horária durante a obra, sem qualquer ônus para a GERDAU.
+Os dados aqui solicitados pela GERDAU servirão para avaliação da Proposta Técnica, devendo a PROPONENTE demonstrar o seu conhecimento, experiência e sua capacidade para fornecimento do objeto desta ES com qualidade, dentro da melhor técnica vigente e nos prazos requeridos. 
+É fator básico para análise da Proposta Técnica e, consequentemente, para a sua aceitação, que todos os quesitos ora solicitados sejam explanados com consistência.
+
+
+
+Código
+UP-513-ES-M-0021
+Revisão
+0
+
+Página
+2/11
+	
+	
+
+2
+UP-513-ES-M-0011
+
+
+

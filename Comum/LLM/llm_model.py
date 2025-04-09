@@ -30,6 +30,7 @@ class LLM_Model:
                                 {"role": "user", "content": self.prompt}
                             ]).choices[0].message.content
             return resposta
+
     """
     class Gemini(ILLM_Model):
         _instance: 'LLM_Model.Gemini' = None 
@@ -52,8 +53,8 @@ class LLM_Model:
         def get(self) -> str:
             resposta = self._client.generate_content([self.prompt]).text 
             return resposta
-    """ 
-
+    """
+    
     class Factory:
         @staticmethod
         def get(model_name: str) -> ILLM_Model:

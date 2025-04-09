@@ -1,4 +1,5 @@
 from Comum.Models.model_base import ILLM_Model
+from Comum.Utils.utils import FileTool
 
 class LLM:
     model: ILLM_Model = None
@@ -15,4 +16,6 @@ class LLM:
         return self
 
     def go(self) -> str:
-        return self.model.get()
+        resposta = self.model.get()
+        FileTool("llm.md").save(f"{self.model.prompt}\n\n-----------------------------------------------\n\n{resposta}")
+        return resposta
