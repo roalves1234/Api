@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "venv_pip_api",
+			"path": "../../../python/venvs/Tenax/venv_pip_api"
+		},
+		{
+			"name": "Api",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
